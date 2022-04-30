@@ -1,0 +1,604 @@
+"","grad","master","undergrad","gender","mastermajor","major1","major2","minor1","minor2","honors","predoc","international","job","ra","masters","female","econ","masterecon","math","mastermath","econmath","other_major","ranking","ugranking","rank_tier","new_rank_tier","region_western_eu","region_eastern_eu","region_south_asia","region_east_asia","region_latin_america","liberal_art","school_of_economics","unranked","region_other","region_middle_east"
+"1","Harvard University","paris school of economics","university of michigan","m","econ","econ",NA,NA,NA,0,NA,0,0,0,1,0,1,1,0,0,0,0,1,30,"","",0,0,0,0,0,0,0,0,0,0
+"2","Harvard University",NA,"princeton","m",NA,"econ",NA,"stats",NA,1,NA,0,0,0,0,0,1,0,1,0,1,0,1,11,"","",0,0,0,0,0,0,0,0,0,0
+"3","Harvard University",NA,"harvard","m",NA,"math",NA,NA,NA,1,NA,0,1,0,0,0,0,0,1,0,0,0,1,2,"","",0,0,0,0,0,0,0,0,0,0
+"4","Harvard University",NA,"williams college","f",NA,"econ","math",NA,NA,1,1,0,0,1,0,1,1,0,1,0,1,0,1,NA,"","",0,0,0,0,0,1,0,0,0,0
+"5","Harvard University","barcelona","georgetown university","m","econ","pol",NA,NA,NA,0,NA,0,0,0,1,0,1,1,0,0,0,0,1,213,"","",0,0,0,0,0,0,0,0,0,0
+"6","Harvard University",NA,"harvard","m",NA,"math",NA,NA,NA,1,NA,0,0,0,0,0,0,0,1,0,0,0,1,2,"","",0,0,0,0,0,0,0,0,0,0
+"7","Harvard University",NA,"mcgill university","f",NA,"econ",NA,"math","english",1,NA,1,0,0,0,1,1,0,1,0,1,0,1,24,"","",0,0,0,0,0,0,0,0,1,0
+"8","Harvard University",NA,"university of sydney","m",NA,"econ",NA,NA,NA,1,1,1,0,1,0,0,1,0,0,0,0,0,1,45,"","",0,0,0,0,0,0,0,0,1,0
+"9","Harvard University",NA,"new economics school","f",NA,"econ",NA,NA,NA,1,NA,1,0,0,0,1,1,0,0,0,0,0,1,NA,"","",0,1,0,0,0,0,1,0,0,0
+"10","Harvard University","Getulio Vargas Foundation","Getulio Vargas Foundation","m","econ","econ",NA,NA,NA,0,NA,0,0,0,1,0,1,1,0,0,0,0,1,NA,"","",0,0,0,0,0,0,1,0,0,0
+"11","Harvard University",NA,"mit","m",NA,"econ","math",NA,NA,0,NA,0,0,0,0,0,1,0,1,0,1,0,1,1,"","",0,0,0,0,0,0,0,0,0,0
+"12","Harvard University",NA,"brown","f",NA,"econ","math",NA,NA,1,1,0,0,1,0,1,1,0,1,0,1,0,1,49,"","",0,0,0,0,0,0,0,0,0,0
+"13","Harvard University",NA,"williams college","m",NA,"econ","math",NA,NA,1,NA,0,0,0,0,0,1,0,1,0,1,0,1,NA,"","",0,0,0,0,0,1,0,0,0,0
+"14","Harvard University","ecole polytechnique","ecole polytechnique","m","econ","econ","math",NA,NA,0,NA,1,0,0,1,0,1,1,1,0,1,0,1,40,"","",1,0,0,0,0,0,0,0,0,0
+"15","Harvard University","universidad de chile","universidad de chile","m","econ","econ",NA,NA,NA,1,NA,1,0,0,1,0,1,1,0,0,0,0,1,209,"","",0,0,0,0,1,0,0,0,0,0
+"16","Harvard University",NA,"stanford","f",NA,"econ",NA,"math",NA,1,1,0,0,1,0,1,1,0,1,0,1,0,1,3,"","",0,0,0,0,0,0,0,0,0,0
+"17","Harvard University",NA,"harvard","m",NA,"econ","math",NA,NA,0,1,0,0,1,0,0,1,0,1,0,1,0,1,2,"","",0,0,0,0,0,0,0,0,0,0
+"18","Harvard University","the hebrew university",NA,"m","econ",NA,NA,NA,NA,0,1,1,1,1,1,0,1,1,0,0,0,0,1,NA,"","",0,0,0,0,0,0,0,1,0,0
+"19","Harvard University","university of cambridge","yale","f","econ","history",NA,NA,NA,1,1,0,0,1,1,1,1,1,0,0,0,0,1,15,"","",0,0,0,0,0,0,0,0,0,0
+"20","Harvard University","yale","mumbai university","f","econ","econ","stats",NA,NA,0,1,1,1,1,1,1,1,1,1,0,1,0,1,NA,"","",0,0,1,0,0,0,0,1,0,0
+"21","Harvard University",NA,"university of chicago","m",NA,"econ",NA,NA,NA,1,1,0,0,1,0,0,1,0,0,0,0,0,1,10,"","",0,0,0,0,0,0,0,0,0,0
+"22","Harvard University",NA,"cornell","f",NA,"econ",NA,NA,NA,1,NA,0,0,0,0,1,1,0,0,0,0,0,1,17,"","",0,0,0,0,0,0,0,0,0,0
+"23","Harvard University",NA,"mit","m",NA,"econ",NA,NA,NA,0,1,0,0,1,0,0,1,0,0,0,0,0,1,1,"","",0,0,0,0,0,0,0,0,0,0
+"24","Harvard University",NA,"wesleyan university","f",NA,"econ","math","english",NA,0,1,0,1,1,0,1,1,0,1,0,1,0,1,NA,"","",0,0,0,0,0,1,0,0,0,0
+"25","Harvard University",NA,"university of chicago","m",NA,"econ","math",NA,NA,0,1,0,0,1,0,0,1,0,1,0,1,0,1,10,"","",0,0,0,0,0,0,0,0,0,0
+"26","Harvard University",NA,"university of chicago","f",NA,"econ",NA,NA,NA,1,1,0,0,1,0,1,1,0,0,0,0,0,1,10,"","",0,0,0,0,0,0,0,0,0,0
+"27","Harvard University",NA,"wisconsin madison","m",NA,"econ",NA,NA,NA,1,1,0,0,1,0,0,1,0,0,0,0,0,1,54,"","",0,0,0,0,0,0,0,0,0,0
+"28","Harvard University",NA,"Universidad Católica Andrés Bello","m","econ","econ",NA,NA,NA,0,1,1,0,1,0,0,1,1,0,0,0,0,1,525,"","",0,0,1,0,0,0,0,0,0,0
+"29","Harvard University",NA,"harvard","f",NA,"econ","math",NA,NA,1,NA,0,1,0,0,1,1,0,1,0,1,0,1,2,"","",0,0,0,0,0,0,0,0,0,0
+"30","Harvard University",NA,"university of arizona","f",NA,"econ","math",NA,NA,0,NA,0,0,0,0,1,1,0,1,0,1,0,1,216,"","",0,0,0,0,0,0,0,0,0,0
+"31","Harvard University","university of cambridge","university of cambridge","f","econ","econ",NA,NA,NA,1,NA,1,0,0,1,1,1,1,0,0,0,0,1,3,"","",1,0,0,0,0,0,0,0,0,0
+"32","Harvard University","new economics school","saint petersburg state university","m","econ","econ",NA,NA,NA,1,NA,1,0,0,1,0,1,1,0,0,0,0,1,256,"","",0,1,0,0,0,0,0,0,0,0
+"33","Harvard University","bocconi university","bocconi university","m","econ","econ",NA,NA,NA,1,1,1,0,1,1,0,1,1,0,0,0,0,1,NA,"","",1,0,0,0,0,0,1,0,0,0
+"34","Massachusetts Institute of Technology",NA,"amherst college","m",NA,"econ","math",NA,NA,1,1,0,1,1,0,0,1,0,1,0,1,0,1,NA,"","",0,0,0,0,0,1,0,0,0,0
+"35","Massachusetts Institute of Technology",NA,"mount holyoke college","f",NA,"econ","math",NA,NA,1,1,0,1,1,0,1,1,0,1,0,1,0,1,NA,"","",0,0,0,0,0,1,0,0,0,0
+"36","Massachusetts Institute of Technology",NA,"ucd","f",NA,"econ",NA,"bio",NA,1,1,0,0,1,0,1,1,0,0,0,0,0,1,85,"","",0,0,0,0,0,0,0,0,0,0
+"37","Massachusetts Institute of Technology",NA,"washington university in st.louis","m",NA,"econ","physics","math",NA,1,1,0,0,1,0,0,1,0,1,0,1,0,1,110,"","",0,0,0,0,0,0,0,0,0,0
+"38","Massachusetts Institute of Technology",NA,"harvard","m",NA,"math",NA,NA,NA,1,1,0,0,1,0,0,0,0,1,0,0,0,1,2,"","",0,0,0,0,0,0,0,0,0,0
+"39","Massachusetts Institute of Technology","university of cambridge","university of chicago","m","math","math",NA,NA,NA,1,NA,0,0,0,1,0,0,0,1,1,0,0,1,10,"","",0,0,0,0,0,0,0,0,0,0
+"40","Massachusetts Institute of Technology","bocconi university","universite paris iv sorbonne","f","econ","philosophy","social sicences",NA,NA,1,1,1,0,1,1,1,1,1,0,0,0,0,1,222,"","",1,0,0,0,0,0,0,0,0,0
+"41","Massachusetts Institute of Technology",NA,"university of new south wales","m",NA,"econ","finance",NA,NA,1,NA,1,1,0,0,0,1,0,0,0,0,0,1,46,"","",0,0,0,0,0,0,0,0,1,0
+"42","Massachusetts Institute of Technology","barcelona","pompeu fabra university","m","econ","econ",NA,NA,NA,0,NA,1,0,0,1,0,1,1,0,0,0,0,1,295,"","",1,0,0,0,0,0,0,0,0,0
+"43","Massachusetts Institute of Technology","Instituto Tecnológico Autónomo de México","Instituto Tecnológico Autónomo de México","m","econ","econ","math",NA,NA,1,NA,1,1,0,1,0,1,1,1,0,1,0,1,575,"","",0,0,0,0,1,0,0,0,0,0
+"44","Massachusetts Institute of Technology",NA,"mit","m",NA,"math",NA,NA,NA,0,NA,0,0,0,0,0,0,0,1,0,0,0,1,1,"","",0,0,0,0,0,0,0,0,0,0
+"45","Massachusetts Institute of Technology",NA,"dartmouth college","m",NA,"econ","government",NA,NA,1,NA,0,1,0,0,0,1,0,0,0,0,0,1,NA,"","",0,0,0,0,0,1,0,0,0,0
+"46","Massachusetts Institute of Technology",NA,"harvard","m",NA,"physics",NA,"cs",NA,1,1,0,1,1,0,0,0,0,0,0,0,1,1,2,"","",0,0,0,0,0,0,0,0,0,0
+"47","Massachusetts Institute of Technology","ecole polytechnique","ecole polytechnique","m","econ","math",NA,NA,NA,0,NA,1,0,0,1,0,1,1,1,0,1,0,1,40,"","",1,0,0,0,0,0,0,0,0,0
+"48","Massachusetts Institute of Technology","university of helsinki","university of helsinki","m","econ","econ",NA,NA,NA,0,NA,1,1,0,1,0,1,1,0,0,0,0,1,96,"","",1,0,0,0,0,0,0,0,0,0
+"49","Massachusetts Institute of Technology",NA,"princeton","m",NA,"econ","math",NA,NA,1,NA,0,0,0,0,0,1,0,1,0,1,0,1,11,"","",0,0,0,0,0,0,0,0,0,0
+"50","Massachusetts Institute of Technology",NA,"universidad de los andes","m",NA,"econ","philosophy",NA,NA,1,1,1,0,1,0,0,1,0,0,0,0,0,1,283,"","",0,0,0,0,1,0,0,0,0,0
+"51","Massachusetts Institute of Technology","university of oxford","university of cambridge","m","econ","econ",NA,NA,NA,1,1,1,0,1,1,0,1,1,0,0,0,0,1,3,"","",1,0,0,0,0,0,0,0,0,0
+"52","Massachusetts Institute of Technology","bocconi university","bocconi university","m","econ","econ","social sicences",NA,NA,1,NA,1,1,0,1,0,1,1,0,0,0,0,1,NA,"","",1,0,0,0,0,0,1,0,0,0
+"53","Massachusetts Institute of Technology","paris school of economics","universite paris pantheon sorbonne","m","econ","econ",NA,NA,NA,1,NA,1,0,0,1,0,1,1,0,0,0,0,1,240,"","",1,0,0,0,0,0,0,0,0,0
+"54","Massachusetts Institute of Technology",NA,"bilkent university","m",NA,"econ",NA,"math",NA,0,1,0,0,1,0,0,1,0,1,0,1,0,1,394,"","",0,0,0,0,0,0,0,0,0,1
+"55","Massachusetts Institute of Technology",NA,"ecole normale superieure","f",NA,"econ","stats",NA,NA,1,NA,0,0,0,0,1,1,0,1,0,1,0,1,188,"","",1,0,0,0,0,0,0,0,0,0
+"56","Princeton University",NA,"fgv","m","econ","econ",NA,NA,NA,0,NA,1,0,0,0,0,1,1,0,0,0,0,1,NA,"","",0,0,0,0,1,0,1,0,0,0
+"57","Princeton University",NA,"yale","m","econ","econ",NA,NA,NA,0,NA,0,0,0,0,0,1,1,0,0,0,0,1,15,"","",0,0,0,0,0,0,0,0,0,0
+"58","Princeton University","Instituto Tecnológico Autónomo de México","Instituto Tecnológico Autónomo de México","m","econ","econ",NA,NA,NA,1,NA,1,0,0,1,0,1,1,0,0,0,0,1,575,"","",0,0,0,0,1,0,0,0,0,0
+"59","Princeton University","new economics school","moscow institute of physics and technology","m","econ","math","physics",NA,NA,1,NA,1,1,0,1,0,1,1,1,0,1,0,1,435,"","",0,1,0,0,0,0,0,0,0,0
+"60","Princeton University","puc rio","universidad nacional mayor de san marcos","m","econ","econ",NA,NA,NA,0,NA,1,0,0,1,0,1,1,0,0,0,0,1,NA,"","",0,0,0,0,1,0,0,1,0,0
+"61","Princeton University","indian statistical institute","indian institute of technology","m","econ","cs",NA,NA,NA,1,NA,1,0,0,1,0,1,1,0,0,0,0,1,179,"","",0,0,1,0,0,0,0,0,0,0
+"62","Princeton University",NA,"university of bonn","m","econ","econ",NA,NA,NA,1,NA,1,0,0,0,0,1,1,0,0,0,0,1,210,"","",1,0,0,0,0,0,0,0,0,0
+"63","Princeton University",NA,"princeton","m",NA,"math",NA,NA,NA,1,NA,0,0,0,0,0,0,0,1,0,0,0,1,11,"","",0,0,0,0,0,0,0,0,0,0
+"64","Princeton University",NA,"penn state university","f",NA,"econ","math",NA,NA,1,NA,0,0,0,0,1,1,0,1,0,1,0,1,101,"","",0,0,0,0,0,0,0,0,0,0
+"65","Princeton University","fundacao getulio argas","puc","f","econ","engineering",NA,"math",NA,0,NA,1,1,0,1,1,1,1,1,0,1,0,1,NA,"","",0,0,0,0,1,0,0,1,0,0
+"66","Princeton University","london school of economics","university of mannheim","m","econ","econ",NA,"math",NA,0,NA,1,0,0,1,0,1,1,1,0,1,0,1,394,"","",1,0,0,0,0,0,0,0,0,0
+"67","Princeton University",NA,"new economics school","m",NA,"econ",NA,NA,NA,1,NA,1,0,0,0,0,1,0,0,0,0,0,1,NA,"","",0,1,0,0,0,0,1,0,0,0
+"68","Princeton University","universidad torcuato di tella","universidad torcuato di tella","m","econ","econ",NA,NA,NA,0,NA,1,0,0,1,0,1,1,0,0,0,0,1,625,"","",0,0,0,0,1,0,0,0,0,0
+"69","Princeton University","Kyiv School of Economics","Simon Kuznetz Kharkiv National University of Economics","m","econ","econ",NA,NA,NA,1,NA,1,0,0,1,0,1,1,0,0,0,0,1,NA,"","",0,1,0,0,0,0,0,1,0,0
+"70","Princeton University",NA,"princeton","f",NA,"financial engineering",NA,NA,NA,1,NA,0,0,0,0,1,0,0,0,0,0,1,1,11,"","",0,0,0,0,0,0,0,0,0,0
+"71","Princeton University","university of naples federico","university of naples federico","m","econ","econ",NA,NA,NA,0,NA,1,0,0,1,0,1,1,0,0,0,0,1,445,"","",1,0,0,0,0,0,0,0,0,0
+"72","Princeton University","university of oxford","university of oxford","m","econ","econ",NA,NA,NA,0,NA,1,0,0,1,0,1,1,0,0,0,0,1,6,"","",1,0,0,0,0,0,0,0,0,0
+"73","Princeton University",NA,"tsinghua university","m",NA,"econ","math",NA,NA,0,NA,1,0,0,0,0,1,0,1,0,1,0,1,25,"","",0,0,0,1,0,0,0,0,0,0
+"74","Princeton University",NA,"peking university","m",NA,"econ",NA,NA,NA,0,NA,1,0,0,0,0,1,0,0,0,0,0,1,41,"","",0,0,0,1,0,0,0,0,0,0
+"75","Stanford University",NA,"stanford","m",NA,"econ",NA,NA,NA,0,1,0,0,1,0,0,1,0,0,0,0,0,1,3,"","",0,0,0,0,0,0,0,0,0,0
+"76","Stanford University",NA,"university of oslo","m",NA,"econ",NA,NA,NA,0,NA,1,0,0,0,0,1,0,0,0,0,0,1,135,"","",1,0,0,0,0,0,0,0,0,0
+"77","Stanford University","london school of economics","university of cambridge","m","econ","econ",NA,NA,NA,1,NA,1,1,0,1,0,1,1,0,0,0,0,1,3,"","",1,0,0,0,0,0,0,0,0,0
+"78","Stanford University","university of zurich","university of heidelberg","f","econ","econ",NA,NA,NA,0,NA,1,0,0,1,1,1,1,0,0,0,0,1,66,"","",1,0,0,0,0,0,0,0,0,0
+"79","Stanford University",NA,"marquette university","m",NA,"econ","math",NA,NA,1,NA,0,0,0,0,0,1,0,1,0,1,0,1,NA,"","",0,0,0,0,0,0,0,1,0,0
+"80","Stanford University","the hebrew university","the hebrew university","m","econ","econ","stats",NA,NA,1,NA,1,0,0,1,0,1,1,1,0,1,0,1,148,"","",0,0,0,0,0,0,0,0,0,1
+"81","Stanford University",NA,"usc","m",NA,"econ","math",NA,NA,1,NA,0,0,0,0,0,1,0,1,0,1,0,1,130,"","",0,0,0,0,0,0,0,0,0,0
+"82","Stanford University",NA,"peking university","f",NA,"econ","psychology",NA,NA,0,NA,1,0,0,0,1,1,0,0,0,0,0,1,41,"","",0,0,0,1,0,0,0,0,0,0
+"83","Stanford University",NA,"university of rochester","m",NA,"econ","physics",NA,NA,1,NA,0,0,0,0,0,1,0,0,0,0,0,1,190,"","",0,0,0,0,0,0,0,0,0,0
+"84","Stanford University","puc rj","university of brasilia","m","econ","econ",NA,NA,NA,0,NA,1,0,0,1,0,1,1,0,0,0,0,1,495,"","",0,0,0,0,1,0,0,0,0,0
+"85","Stanford University",NA,"cornell","m",NA,"econ","math",NA,NA,1,1,0,0,1,0,0,1,0,1,0,1,0,1,17,"","",0,0,0,0,0,0,0,0,0,0
+"86","Stanford University","pontificia universidad catolica de chile","pontificia universidad catolica de chile","m","econ","econ",NA,NA,NA,0,1,1,0,1,1,0,1,1,0,0,0,0,1,170,"","",0,0,0,0,1,0,0,0,0,0
+"87","Stanford University","university of tokyo","university of tokyo","f","econ","econ",NA,NA,NA,0,NA,1,0,0,1,1,1,1,0,0,0,0,1,39,"","",0,0,0,1,0,0,0,0,0,0
+"88","Stanford University","stanford","university of notre dame","f","econ","econ",NA,NA,NA,1,NA,0,0,0,1,1,1,1,0,0,0,0,1,195,"","",0,0,0,0,0,0,0,0,0,0
+"89","Stanford University","maastricht university","maastricht university","m","econ","econ",NA,NA,NA,1,NA,1,0,0,1,0,1,1,0,0,0,0,1,169,"","",1,0,0,0,0,0,0,0,0,0
+"90","Stanford University","university of melbourne","university of melbourne","f","math","math","stats",NA,NA,0,NA,1,0,0,1,1,0,0,1,1,0,0,1,42,"","",0,0,0,0,0,0,0,0,1,0
+"91","Stanford University",NA,"harvard","m",NA,NA,NA,NA,NA,1,NA,0,0,0,0,0,0,0,0,0,0,1,1,2,"","",0,0,0,0,0,0,0,0,0,0
+"92","Stanford University",NA,"university of texas","f",NA,"econ","math",NA,NA,1,NA,0,0,0,0,1,1,0,1,0,1,0,1,77,"","",0,0,0,0,0,0,0,0,0,0
+"93","Stanford University","university of tokyo","university of tokyo","m","law","international relations",NA,NA,NA,1,NA,1,0,0,1,0,0,0,0,0,0,1,1,39,"","",0,0,0,1,0,0,0,0,0,0
+"94","University of California-Berkeley","universidad eafit","universidad eafit","m","math","econ",NA,NA,NA,0,NA,1,0,0,1,0,1,0,1,1,1,0,1,NA,"","",0,0,0,0,1,0,0,1,0,0
+"95","University of California-Berkeley",NA,"wellesley college","f",NA,"econ",NA,"math",NA,1,1,0,0,1,0,1,1,0,1,0,1,0,1,NA,"","",0,0,0,0,0,1,0,0,0,0
+"96","University of California-Berkeley",NA,"new economics school","m",NA,"econ",NA,NA,NA,0,NA,1,0,0,0,0,1,0,0,0,0,0,1,NA,"","",0,1,0,0,0,0,1,0,0,0
+"97","University of California-Berkeley",NA,"tsinghua university","m","stats","econ",NA,NA,NA,0,NA,1,0,0,0,0,1,0,1,1,1,0,1,25,"","",0,0,0,1,0,0,0,0,0,0
+"98","University of California-Berkeley","london school of economics","university of oxford","m","econ","econ","philosophy",NA,NA,1,1,1,0,1,1,0,1,1,0,0,0,0,1,6,"","",1,0,0,0,0,0,0,0,0,0
+"99","University of California-Berkeley",NA,"peking university","m",NA,"econ","math",NA,NA,0,NA,1,0,0,0,0,1,0,1,0,1,0,1,41,"","",0,0,0,1,0,0,0,0,0,0
+"100","University of California-Berkeley","puc rio","university of sao paulo","m","econ","econ",NA,NA,NA,0,NA,1,0,0,1,0,1,1,0,0,0,0,1,143,"","",0,0,0,0,1,0,0,0,0,0
+"101","University of California-Berkeley","puc chile","puc chile","m","econ","econ",NA,NA,NA,1,NA,1,1,0,1,0,1,1,0,0,0,0,1,170,"","",0,0,0,0,1,0,0,0,0,0
+"102","University of California-Berkeley",NA,"ucb","f",NA,"econ",NA,NA,NA,0,1,0,0,1,0,1,1,0,0,0,0,0,1,26,"","",0,0,0,0,0,0,0,0,0,0
+"103","University of California-Berkeley",NA,"ucb","f",NA,"econ",NA,NA,NA,0,1,0,0,1,0,1,1,0,0,0,0,0,1,26,"","",0,0,0,0,0,0,0,0,0,0
+"104","University of California-Berkeley","seoul national university","seoul national university","m","econ","physics",NA,NA,NA,0,NA,1,0,0,1,0,1,1,0,0,0,0,1,36,"","",0,0,0,1,0,0,0,0,0,0
+"105","University of California-Berkeley",NA,"harvard","m",NA,"math",NA,NA,NA,1,1,0,0,1,0,0,0,0,1,0,0,0,1,2,"","",0,0,0,0,0,0,0,0,0,0
+"106","University of California-Berkeley",NA,"georgetown university","m",NA,"econ","math",NA,NA,0,1,0,0,1,0,0,1,0,1,0,1,0,1,213,"","",0,0,0,0,0,0,0,0,0,0
+"107","University of California-Berkeley","university of oxford","lmu munchen","m","econ","econ",NA,NA,NA,0,NA,1,0,0,1,0,1,1,0,0,0,0,1,75,"","",1,0,0,0,0,0,0,0,0,0
+"108","University of California-Berkeley",NA,"brown","f",NA,"physics",NA,NA,NA,0,1,0,0,1,0,1,0,0,0,0,0,1,1,49,"","",0,0,0,0,0,0,0,0,0,0
+"109","University of California-Berkeley",NA,"rutgers university","m",NA,"econ","math",NA,NA,0,1,0,0,1,0,0,1,0,1,0,1,0,1,269,"","",0,0,0,0,0,0,0,0,0,0
+"110","Yale University","london school of economics","university of konstanz","m","pol","pol",NA,NA,NA,0,NA,1,0,0,1,0,0,0,0,0,0,1,1,319,"","",1,0,0,0,0,0,0,0,0,0
+"111","Yale University","london school of economics","fudan","m","econ","econ","math",NA,NA,1,NA,1,0,0,1,0,1,1,1,0,1,0,1,51,"","",0,0,0,1,0,0,0,0,0,0
+"112","Yale University","universidad de san andres","universidad de buenos aires","f","econ","econ",NA,NA,NA,1,NA,1,1,0,1,1,1,1,0,0,0,0,1,124,"","",0,0,0,0,1,0,0,0,0,0
+"113","Yale University",NA,"reed college","m",NA,"econ","math",NA,NA,0,NA,0,0,0,0,0,1,0,1,0,1,0,1,NA,"","",0,0,0,0,0,1,0,0,0,0
+"114","Yale University",NA,"georgetown university","m",NA,NA,NA,NA,NA,1,1,0,0,1,0,0,0,0,0,0,0,1,1,213,"","",0,0,0,0,0,0,0,0,0,0
+"115","Yale University","university of turin","university of turin","m","econ","econ",NA,NA,NA,0,NA,1,0,0,1,0,1,1,0,0,0,0,1,525,"","",1,0,0,0,0,0,0,0,0,0
+"116","Yale University",NA,"seoul national university","m",NA,"business administration",NA,NA,NA,0,1,1,0,1,0,0,1,0,0,0,0,0,1,36,"","",0,0,0,1,0,0,0,0,0,0
+"117","Yale University","university of tokyo","university of tokyo","m","econ","econ",NA,NA,NA,0,NA,1,0,0,1,0,1,1,0,0,0,0,1,39,"","",0,0,0,1,0,0,0,0,0,0
+"118","Yale University",NA,"university of cambridge","m",NA,"econ",NA,NA,NA,1,NA,1,0,0,0,0,1,0,0,0,0,0,1,3,"","",1,0,0,0,0,0,0,0,0,0
+"119","Yale University","epge","federal university of vicosa","m","econ","econ",NA,NA,NA,0,NA,1,1,0,1,0,1,1,0,0,0,0,1,NA,"","",0,0,0,0,1,0,0,1,0,0
+"120","Yale University","university of melbourne","university of melbourne","m","econ","math","commerce",NA,NA,0,NA,1,0,0,1,0,1,1,1,0,1,0,1,42,"","",0,0,0,0,0,0,0,0,1,0
+"121","Yale University",NA,"korea advanced institute of science and technology","f",NA,NA,NA,NA,NA,0,NA,1,0,0,0,1,0,0,0,0,0,1,1,43,"","",0,0,0,1,0,0,0,0,0,0
+"122","Yale University",NA,"indiana university","m",NA,"econ","math","french",NA,1,NA,0,0,0,0,0,1,0,1,0,1,0,1,263,"","",0,0,0,0,0,0,0,0,0,0
+"123","Northwestern University",NA,"upenn","m",NA,"econ","math",NA,NA,0,NA,0,0,0,0,0,1,0,1,0,1,0,7,18,"","",0,0,0,0,0,0,0,0,0,0
+"124","Northwestern University","bocconi university","bocconi university","m","econ","econ",NA,NA,NA,0,NA,1,0,0,1,0,1,1,0,0,0,0,7,NA,"","",1,0,0,0,0,0,1,0,0,0
+"125","Northwestern University","williams college","belarusian state university","f","econ","econ",NA,NA,NA,0,NA,1,1,0,1,1,1,1,0,0,0,0,7,425,"","",0,1,0,0,0,0,0,0,0,0
+"126","Northwestern University","universite catholique de louvain","university of genoa","f","econ","econ",NA,NA,NA,0,NA,1,0,0,1,1,1,1,0,0,0,0,7,NA,"","",1,0,0,0,0,0,0,1,0,0
+"127","Northwestern University","bogazici university","bogazici university","m","econ","econ","management",NA,NA,0,NA,1,0,0,1,0,1,1,0,0,0,0,7,NA,"","",0,0,0,0,0,0,0,1,0,1
+"128","Northwestern University","london school of economics","university of zurich","m","econ","econ",NA,NA,NA,1,NA,1,0,0,1,0,1,1,0,0,0,0,7,85,"","",1,0,0,0,0,0,0,0,0,0
+"129","Northwestern University","queen's university","university of ottawa","m","econ","econ",NA,NA,NA,1,NA,0,1,0,1,0,1,1,0,0,0,0,7,284,"","",0,0,0,0,0,0,0,0,0,0
+"130","Northwestern University",NA,"dartmouth college","f",NA,"econ",NA,"math",NA,0,1,0,0,1,0,1,1,0,1,0,1,0,7,NA,"","",0,0,0,0,0,1,0,0,0,0
+"131","Northwestern University","university of bologna","university of bologna","m","econ","econ",NA,NA,NA,1,NA,1,0,0,1,0,1,1,0,0,0,0,7,204,"","",1,0,0,0,0,0,0,0,0,0
+"132","Northwestern University","wisconsin madison","fudan","m","econ","finance",NA,NA,NA,0,NA,1,0,0,1,0,1,1,0,0,0,0,7,51,"","",0,0,0,1,0,0,0,0,0,0
+"133","Northwestern University",NA,"university of new south wales","m",NA,"econ",NA,NA,NA,1,NA,1,1,0,0,0,1,0,0,0,0,0,7,46,"","",0,0,0,0,0,0,0,0,1,0
+"134","Northwestern University","university of chile","university of chile","m","econ","econ","engineering",NA,NA,0,NA,1,0,0,1,0,1,1,0,0,0,0,7,209,"","",0,0,0,0,1,0,0,0,0,0
+"135","Northwestern University","bocconi university","bocconi university","m","econ","econ",NA,NA,NA,0,1,1,0,1,1,0,1,1,0,0,0,0,7,NA,"","",1,0,0,0,0,0,1,0,0,0
+"136","Northwestern University",NA,"carleton college","m",NA,"econ","math",NA,NA,1,NA,0,0,0,0,0,1,0,1,0,1,0,7,NA,"","",0,0,0,0,0,1,0,0,0,0
+"137","University of Chicago","seoul national university","seoul national university","m","econ","econ",NA,NA,NA,0,NA,1,1,0,1,0,1,1,0,0,0,0,7,36,"","",0,0,0,1,0,0,0,0,0,0
+"138","University of Chicago","university torcuato di tella","university of buenos aires","m","econ","econ",NA,NA,NA,0,1,1,0,1,1,0,1,1,0,0,0,0,7,124,"","",0,0,0,0,1,0,0,0,0,0
+"139","University of Chicago",NA,"rice","m",NA,"econ","math",NA,NA,1,NA,0,0,0,0,0,1,0,1,0,1,0,7,106,"","",0,0,0,0,0,0,0,0,0,0
+"140","University of Chicago",NA,"dartmouth college","m",NA,"econ","math",NA,NA,1,NA,0,0,0,0,0,1,0,1,0,1,0,7,NA,"","",0,0,0,0,0,1,0,0,0,0
+"141","University of Chicago",NA,"tsinghua university","m",NA,"econ","finance",NA,NA,1,NA,1,0,0,0,0,1,0,0,0,0,0,7,25,"","",0,0,0,1,0,0,0,0,0,0
+"142","University of Chicago",NA,"university of chicago","m",NA,"econ",NA,NA,NA,0,1,0,0,1,0,0,1,0,0,0,0,0,7,10,"","",0,0,0,0,0,0,0,0,0,0
+"143","University of Chicago","puc chile","puc chile","m","econ","econ",NA,NA,NA,0,1,1,0,1,1,0,1,1,0,0,0,0,7,170,"","",0,0,0,0,1,0,0,0,0,0
+"144","University of Chicago","universidad del pacifico","universidad del pacifico","m","econ","econ",NA,NA,NA,0,1,1,0,1,1,0,1,1,0,0,0,0,7,NA,"","",0,0,0,0,1,0,0,1,0,0
+"145","University of Chicago",NA,"brigham young university","m",NA,"econ","math",NA,NA,0,NA,0,0,0,0,0,1,0,1,0,1,0,7,675,"","",0,0,0,0,0,0,0,0,0,0
+"146","University of Chicago","Getulio Vargas Foundation","federal university of rio de janeiro","m","econ","econ",NA,NA,NA,0,NA,1,0,0,1,0,1,1,0,0,0,0,7,323,"","",0,0,0,0,1,0,0,0,0,0
+"147","University of Chicago",NA,"peking university","f",NA,"econ","stats",NA,NA,0,NA,1,0,0,0,1,1,0,1,0,1,0,7,41,"","",0,0,0,1,0,0,0,0,0,0
+"148","University of Chicago",NA,"national taiwan university","m",NA,"econ","math",NA,NA,0,NA,1,0,0,0,0,1,0,1,0,1,0,7,70,"","",0,0,0,1,0,0,0,0,0,0
+"149","University of Chicago","boston","university of cambridge","m","econ","econ",NA,NA,NA,1,NA,1,0,0,1,0,1,1,0,0,0,0,7,3,"","",1,0,0,0,0,0,0,0,0,0
+"150","University of Chicago",NA,"georgetown university","f",NA,"foreign service",NA,NA,NA,1,1,0,1,1,0,1,0,0,0,0,0,1,7,213,"","",0,0,0,0,0,0,0,0,0,0
+"151","University of Chicago","university of oxford","stanford","m","econ","econ","earth",NA,NA,1,NA,0,0,0,1,0,1,1,0,0,0,0,7,3,"","",0,0,0,0,0,0,0,0,0,0
+"152","University of Chicago","tsu","armenian state university","m","econ","finance",NA,NA,NA,0,NA,0,0,0,1,0,1,1,0,0,0,0,7,NA,"","",0,0,0,0,0,0,0,1,0,0
+"153","University of Chicago",NA,"national taiwan university","m",NA,NA,NA,NA,NA,0,NA,1,0,0,0,0,0,0,0,0,0,1,7,70,"","",0,0,0,1,0,0,0,0,0,0
+"154","University of Chicago",NA,"university of hongkong","f",NA,"econ","math",NA,NA,1,NA,1,0,0,0,1,1,0,1,0,1,0,7,30,"","",0,0,0,1,0,0,0,0,0,0
+"155","University of Chicago","Getulio Vargas Foundation","catholic university of santos","m","econ","econ",NA,NA,NA,0,NA,1,1,0,1,0,1,1,0,0,0,0,7,NA,"","",0,0,0,0,1,0,0,1,0,0
+"156","University of Chicago","universidad de chile","universidad de chile","f","econ","engineering","math",NA,NA,0,1,1,0,1,1,1,1,1,1,0,1,0,7,209,"","",0,0,0,0,1,0,0,0,0,0
+"157","University of Chicago",NA,"cornell","m",NA,"pol",NA,"math",NA,0,NA,0,0,0,0,0,0,0,1,0,0,0,7,17,"","",0,0,0,0,0,0,0,0,0,0
+"158","Columbia University","universidad de los andes","universidad de los andes","m","econ","econ","pol",NA,NA,0,1,1,0,1,1,0,1,1,0,0,0,0,9,283,"","",0,0,0,0,1,0,0,0,0,0
+"159","Columbia University",NA,"boston","m",NA,"econ","math",NA,NA,1,NA,0,1,0,0,0,1,0,1,0,1,0,9,91,"","",0,0,0,0,0,0,0,0,0,0
+"160","Columbia University","university of pisa","university of pisa","m","econ","econ",NA,NA,NA,0,NA,1,0,0,1,0,1,1,0,0,0,0,9,367,"","",1,0,0,0,0,0,0,0,0,0
+"161","Columbia University","delhi school of economics","st.xavier's college","m","econ","econ",NA,NA,NA,0,1,1,0,1,1,0,1,1,0,0,0,0,9,NA,"","",0,0,1,0,0,0,0,1,0,0
+"162","Columbia University",NA,"brandeis university","f",NA,"econ","math",NA,NA,0,1,0,0,1,0,1,1,0,1,0,1,0,9,381,"","",0,0,0,0,0,0,0,0,0,0
+"163","Columbia University","george washington university","stanford","m","math","econ",NA,NA,NA,1,NA,0,0,0,1,0,1,0,1,1,1,0,9,3,"","",0,0,0,0,0,0,0,0,0,0
+"164","Columbia University","ecole polytechnique",NA,"m","econ",NA,NA,NA,NA,1,NA,1,0,0,1,0,1,1,0,0,0,0,9,NA,"","",0,0,0,0,0,0,0,1,0,0
+"165","Columbia University","london school of economics","university of st andrews","m","econ","econ",NA,NA,NA,1,1,1,0,1,1,0,1,1,0,0,0,0,9,68,"","",1,0,0,0,0,0,0,0,0,0
+"166","Columbia University",NA,"harvard","f",NA,"econ",NA,NA,NA,1,NA,0,0,0,0,1,1,0,0,0,0,0,9,2,"","",0,0,0,0,0,0,0,0,0,0
+"167","Columbia University","university of delhi","university of delhi","f","econ","econ",NA,NA,NA,1,NA,1,1,0,1,1,1,1,0,0,0,0,9,485,"","",0,0,1,0,0,0,0,0,0,0
+"168","Columbia University",NA,"brown","m",NA,"econ","math",NA,NA,0,1,0,0,1,0,0,1,0,1,0,1,0,9,49,"","",0,0,0,0,0,0,0,0,0,0
+"169","Columbia University",NA,"ucsd","f",NA,"econ","math",NA,NA,1,1,0,0,1,0,1,1,0,1,0,1,0,9,44,"","",0,0,0,0,0,0,0,0,0,0
+"170","Columbia University","yonsei university","yonsei university","f","econ","econ",NA,NA,NA,0,NA,1,0,0,1,1,1,1,0,0,0,0,9,105,"","",0,0,0,1,0,0,0,0,0,0
+"171","Columbia University",NA,"rice","f",NA,"econ","math",NA,NA,1,NA,0,0,0,0,1,1,0,1,0,1,0,9,106,"","",0,0,0,0,0,0,0,0,0,0
+"172","Columbia University",NA,"vassar college","m",NA,"econ","math",NA,NA,1,NA,0,1,0,0,0,1,0,1,0,1,0,9,NA,"","",0,0,0,0,0,1,0,0,0,0
+"173","Columbia University",NA,"yonsei university","m",NA,"econ",NA,NA,NA,0,NA,1,0,0,0,0,1,0,0,0,0,0,9,105,"","",0,0,0,1,0,0,0,0,0,0
+"174","Columbia University","rutgers university","peking university","f","bio","pharmaceutical",NA,NA,NA,0,NA,1,0,0,1,1,0,0,0,0,0,1,9,41,"","",0,0,0,1,0,0,0,0,0,0
+"175","Columbia University",NA,"brown","m",NA,"econ","math",NA,NA,1,NA,0,1,0,0,0,1,0,1,0,1,0,9,49,"","",0,0,0,0,0,0,0,0,0,0
+"176","Columbia University","university of brasilia","fae business school","m","econ","econ",NA,NA,NA,0,NA,1,0,0,1,0,1,1,0,0,0,0,9,NA,"","",0,0,0,0,1,0,1,0,0,0
+"177","Columbia University",NA,"washington university in st.louis","m",NA,NA,NA,NA,NA,1,NA,0,1,0,0,0,0,0,0,0,0,1,9,110,"","",0,0,0,0,0,0,0,0,0,0
+"178","University of Pennsylvania",NA,"george washington university","m",NA,"econ","math",NA,NA,0,NA,0,1,0,0,0,1,0,1,0,1,0,10,327,"","",0,0,0,0,0,0,0,0,0,0
+"179","University of Pennsylvania","london school of economics","delhi university","f","econ","econ",NA,NA,NA,0,NA,1,0,0,1,1,1,1,0,0,0,0,10,485,"","",0,0,1,0,0,0,0,0,0,0
+"180","University of Pennsylvania","university of illinois","korea university","f","econ","business administration",NA,NA,NA,0,NA,1,0,0,1,1,1,1,0,0,0,0,10,104,"","",0,0,0,1,0,0,0,0,0,0
+"181","University of Pennsylvania",NA,"stony brook university","m",NA,"econ","math",NA,NA,0,1,0,0,1,0,0,1,0,1,0,1,0,10,372,"","",0,0,0,0,0,0,0,0,0,0
+"182","University of Pennsylvania",NA,"sogang university","m",NA,"econ",NA,NA,NA,1,1,1,0,1,0,0,1,0,0,0,0,0,10,425,"","",0,0,0,1,0,0,0,0,0,0
+"183","University of Pennsylvania","tsinghua university","peking university","f","econ","econ","stats",NA,NA,1,NA,1,0,0,1,1,1,1,1,0,1,0,10,41,"","",0,0,0,1,0,0,0,0,0,0
+"184","University of Pennsylvania",NA,"fudan","f",NA,"econ",NA,NA,NA,0,NA,1,0,0,0,1,1,0,0,0,0,0,10,51,"","",0,0,0,1,0,0,0,0,0,0
+"185","University of Pennsylvania","tsinghua university","tsinghua university","m","econ","econ",NA,NA,NA,0,NA,1,0,0,1,0,1,1,0,0,0,0,10,25,"","",0,0,0,1,0,0,0,0,0,0
+"186","University of Pennsylvania","university of tokyo","university of tokyo","m","econ","econ",NA,NA,NA,0,NA,1,0,0,1,0,1,1,0,0,0,0,10,39,"","",0,0,0,1,0,0,0,0,0,0
+"187","University of Pennsylvania","university of luxembourg","new economics school","m","econ","econ",NA,NA,NA,0,NA,1,0,0,1,0,1,1,0,0,0,0,10,NA,"","",0,1,0,0,0,0,1,0,0,0
+"188","New York University",NA,"ucsb","m",NA,"econ","stats",NA,NA,0,NA,0,0,0,0,0,1,0,1,0,1,0,11,129,"","",0,0,0,0,0,0,0,0,0,0
+"189","New York University","university of brasilia","federal university of bahia","m","econ","econ",NA,NA,NA,0,NA,1,1,0,1,0,1,1,0,0,0,0,11,NA,"","",0,0,0,0,1,0,0,1,0,0
+"190","New York University",NA,"washington university in st.louis","m",NA,"econ","math",NA,NA,0,NA,0,0,0,0,0,1,0,1,0,1,0,11,110,"","",0,0,0,0,0,0,0,0,0,0
+"191","New York University",NA,"northwestern university","f",NA,"econ","math",NA,NA,0,NA,0,0,0,0,1,1,0,1,0,1,0,11,32,"","",0,0,0,0,0,0,0,0,0,0
+"192","New York University","university of oxford","wilfrid laurier university/university of waterloo","f",NA,"econ","math",NA,NA,1,NA,1,0,0,1,1,1,0,1,0,1,0,11,152,"","",0,0,0,0,0,0,0,0,1,0
+"193","New York University","Instituto Tecnológico Autónomo de México","Instituto Tecnológico Autónomo de México","m","econ","econ",NA,NA,NA,1,NA,1,0,0,1,0,1,1,0,0,0,0,11,575,"","",0,0,0,0,1,0,0,0,0,0
+"194","New York University",NA,"universidad de montevideo","m",NA,"econ",NA,NA,NA,0,NA,1,1,0,0,0,1,0,0,0,0,0,11,625,"","",0,0,0,0,1,0,0,0,0,0
+"195","New York University","institute for advanced studies","vienna university of economics and business","m","econ","econ","math",NA,NA,0,NA,1,0,0,1,0,1,1,1,0,1,0,11,NA,"","",1,0,0,0,0,0,0,1,0,0
+"196","New York University","bocconi university","universita cattolica di milano","m","econ","econ",NA,NA,NA,0,NA,1,0,0,1,0,1,1,0,0,0,0,11,475,"","",1,0,0,0,0,0,0,0,0,0
+"197","New York University",NA,"national university of singapore","f",NA,"finance",NA,NA,NA,1,1,1,0,1,0,1,1,0,0,0,0,0,11,12,"","",0,0,0,1,0,0,0,0,0,0
+"198","New York University","renmin university of china","renmin university of china","m","econ","econ","math",NA,NA,0,NA,1,0,0,1,0,1,1,1,0,1,0,11,445,"","",0,0,0,1,0,0,0,0,0,0
+"199","New York University","new economics school","higher school of economics","m","econ","econ",NA,NA,NA,0,1,1,0,1,1,0,1,1,0,0,0,0,11,NA,"","",0,1,0,0,0,0,1,0,0,0
+"200","New York University","new economics school","higher school of economics","f","econ","econ",NA,NA,NA,1,NA,1,0,0,1,1,1,1,0,0,0,0,11,NA,"","",0,1,0,0,0,0,1,0,0,0
+"201","New York University","pontificia universidad catolica de chile","pontificia universidad catolica de chile","m","econ","econ",NA,NA,NA,0,NA,1,0,0,1,0,1,1,0,0,0,0,11,170,"","",0,0,0,0,1,0,0,0,0,0
+"202","New York University",NA,"university of kentucky","m",NA,"econ","math",NA,NA,1,NA,0,0,0,0,0,1,0,1,0,1,0,11,575,"","",0,0,0,0,0,0,0,0,0,0
+"203","University of California, Los Angeles","universidad de los andes","universidad de los andes","m","econ","econ",NA,NA,NA,0,NA,1,0,0,1,0,1,1,0,0,0,0,12,283,"","",0,0,0,0,1,0,0,0,0,0
+"204","University of California, Los Angeles","pontificia universidad catolica de chile","pontificia universidad catolica de chile","f","econ","econ",NA,NA,NA,0,1,1,0,1,1,1,1,1,0,0,0,0,12,170,"","",0,0,0,0,1,0,0,0,0,0
+"205","University of California, Los Angeles",NA,"universidad de piura","m",NA,"econ",NA,NA,NA,0,NA,1,0,0,0,0,1,0,0,0,0,0,12,NA,"","",0,0,0,0,1,0,0,1,0,0
+"206","University of California, Los Angeles","sungkyunkwan university","sungkyunkwan university","m","econ","econ",NA,NA,NA,0,NA,1,0,0,1,0,1,1,0,0,0,0,12,118,"","",0,0,0,1,0,0,0,0,0,0
+"207","University of California, Los Angeles","seoul national university","seoul national university","m","econ","econ",NA,NA,NA,0,NA,1,0,0,1,0,1,1,0,0,0,0,12,36,"","",0,0,0,1,0,0,0,0,0,0
+"208","University of California, Los Angeles","johns hopkins university","johns hopkins university","m","econ","econ",NA,NA,NA,0,1,0,0,1,1,0,1,1,0,0,0,0,12,16,"","",0,0,0,0,0,0,0,0,0,0
+"209","University of California, Los Angeles","peking university","peking university","f","econ","econ",NA,"math",NA,0,NA,1,0,0,1,1,1,1,1,0,1,0,12,41,"","",0,0,0,1,0,0,0,0,0,0
+"210","University of California, Los Angeles","universidad del los andes","universidad del los andes","f","econ","econ",NA,NA,NA,1,NA,1,1,0,1,1,1,1,0,0,0,0,12,283,"","",0,0,0,0,1,0,0,0,0,0
+"211","University of California, Los Angeles","puc rio","puc rio","m","econ","econ",NA,NA,NA,0,1,1,0,1,1,0,1,1,0,0,0,0,12,NA,"","",0,0,0,0,1,0,0,1,0,0
+"212","University of California, Los Angeles","center for monetary and financial studies","university of international business and economics","m","econ","econ",NA,NA,NA,0,NA,1,0,0,1,0,1,1,0,0,0,0,12,NA,"","",0,0,0,1,0,0,0,1,0,0
+"213","University of California, Los Angeles",NA,"trinity college dublin","m",NA,"econ","math",NA,NA,1,NA,1,0,0,0,0,1,0,1,0,1,0,12,78,"","",1,0,0,0,0,0,0,0,0,0
+"214","University of California, Los Angeles",NA,"higher school of economics","m",NA,"econ","math",NA,NA,0,NA,1,0,0,0,0,1,0,1,0,1,0,12,NA,"","",0,1,0,0,0,0,1,0,0,0
+"215","University of California, Los Angeles","universidad torcuato di tella","universidad torcuato di tella","m","econ","econ",NA,NA,NA,0,NA,1,0,0,1,0,1,1,0,0,0,0,12,625,"","",0,0,0,0,1,0,0,0,0,0
+"216","University of California, Los Angeles","peking university","peking university","m","econ","econ","history",NA,NA,0,NA,1,0,0,1,0,1,1,0,0,0,0,12,41,"","",0,0,0,1,0,0,0,0,0,0
+"217","University of California, Los Angeles",NA,"peking university","f",NA,"econ","math",NA,NA,0,NA,1,0,0,0,1,1,0,1,0,1,0,12,41,"","",0,0,0,1,0,0,0,0,0,0
+"218","University of California, Los Angeles","paris school of economics","ecole centrale paris","m","econ","math",NA,NA,NA,0,NA,1,0,0,1,0,1,1,1,0,1,0,12,156,"","",1,0,0,0,0,0,0,0,0,0
+"219","University of Michigan","indian institute of technology","indian institute of technology","f","econ","econ","cs",NA,NA,1,NA,1,0,0,1,1,1,1,0,0,0,0,12,179,"","",0,0,1,0,0,0,0,0,0,0
+"220","University of Michigan",NA,"fudan","f",NA,"econ",NA,NA,NA,0,NA,1,0,0,0,1,1,0,0,0,0,0,12,51,"","",0,0,0,1,0,0,0,0,0,0
+"221","University of Michigan","peking university","peking university","m","econ","econ","bio",NA,NA,0,NA,1,0,0,1,0,1,1,0,0,0,0,12,41,"","",0,0,0,1,0,0,0,0,0,0
+"222","University of Michigan","georgetown university","ucsd","f","math","econ",NA,NA,NA,1,1,0,0,1,1,1,1,0,1,1,1,0,12,44,"","",0,0,0,0,0,0,0,0,0,0
+"223","University of Michigan",NA,"brigham young university","m",NA,"econ",NA,NA,NA,0,1,0,0,1,0,0,1,0,0,0,0,0,12,675,"","",0,0,0,0,0,0,0,0,0,0
+"224","University of Michigan",NA,"george washington university","m",NA,"econ",NA,"math","german",1,NA,0,1,0,0,0,1,0,1,0,1,0,12,327,"","",0,0,0,0,0,0,0,0,0,0
+"225","University of Michigan","university of illinois","ohio state university","f","econ","econ","math",NA,NA,0,NA,0,0,0,1,1,1,1,1,0,1,0,12,99,"","",0,0,0,0,0,0,0,0,0,0
+"226","University of Michigan","duke university","indiana university","m","econ","econ","math",NA,NA,0,NA,0,0,0,1,0,1,1,1,0,1,0,12,263,"","",0,0,0,0,0,0,0,0,0,0
+"227","University of Michigan",NA,"harvard","f",NA,"econ","math",NA,NA,1,NA,0,0,0,0,1,1,0,1,0,1,0,12,2,"","",0,0,0,0,0,0,0,0,0,0
+"228","University of Michigan","university of arizona","university of arizona","m","latin american","econ","spanish",NA,NA,1,NA,0,0,0,1,0,1,0,0,0,0,0,12,216,"","",0,0,0,0,0,0,0,0,0,0
+"229","University of Michigan","university college london","university of bristol","f","econ","econ",NA,NA,NA,1,1,1,0,1,1,1,1,1,0,0,0,0,12,37,"","",1,0,0,0,0,0,0,0,0,0
+"230","University of Michigan","national university of singapore","sun yat sen university","f","math","math",NA,NA,NA,1,NA,1,0,0,1,1,0,0,1,1,0,0,12,307,"","",0,0,0,1,0,0,0,0,0,0
+"231","University of Michigan",NA,"university of mannheim","m",NA,"econ",NA,NA,NA,0,NA,1,1,0,0,0,1,0,0,0,0,0,12,394,"","",1,0,0,0,0,0,0,0,0,0
+"232","University of Michigan","universidad eafit","universidad eafit","f","econ","econ","pol",NA,NA,0,NA,1,0,0,1,1,1,1,0,0,0,0,12,NA,"","",0,0,0,0,1,0,0,1,0,0
+"233","University of Michigan",NA,"university of michigan","m",NA,"econ",NA,NA,NA,1,1,0,0,1,0,0,1,0,0,0,0,0,12,30,"","",0,0,0,0,0,0,0,0,0,0
+"234","University of Michigan","university of toronto","university of toronto","m","econ","econ",NA,NA,NA,1,1,1,0,1,1,0,1,1,0,0,0,0,12,34,"","",0,0,0,0,0,0,0,0,1,0
+"235","University of Michigan","yonsei university","yonsei university","m","econ","econ","chinese",NA,NA,1,NA,1,0,0,1,0,1,1,0,0,0,0,12,105,"","",0,0,0,1,0,0,0,0,0,0
+"236","University of Michigan","london school of economics","university of geneva","m","econ","econ",NA,NA,NA,1,NA,1,1,0,1,0,1,1,0,0,0,0,12,89,"","",1,0,0,0,0,0,0,0,0,0
+"237","University of Michigan",NA,"peking university","m",NA,"econ","stats",NA,NA,0,NA,1,0,0,0,0,1,0,1,0,1,0,12,41,"","",0,0,0,1,0,0,0,0,0,0
+"238","University of Michigan",NA,"west virginia university","m",NA,"econ","math",NA,NA,0,NA,0,0,0,0,0,1,0,1,0,1,0,12,NA,"","",0,0,0,0,0,0,0,1,0,0
+"239","Cornell University","renmin university of china","renmin university of china","f","econ","econ",NA,NA,NA,0,NA,1,0,0,1,1,1,1,0,0,0,0,16,445,"","",0,0,0,1,0,0,0,0,0,0
+"240","University of Wisconsin","fudan","southeast university","m","finance","math",NA,NA,NA,0,NA,1,0,0,1,0,0,0,1,0,0,0,12,465,"","",0,0,0,1,0,0,0,0,0,0
+"241","University of Wisconsin",NA,"nankai university","m",NA,"math",NA,NA,NA,0,NA,1,0,0,0,0,0,0,1,0,0,0,12,277,"","",0,0,0,1,0,0,0,0,0,0
+"242","University of Wisconsin",NA,"nanjing university","m",NA,"chemistry",NA,NA,NA,0,NA,1,0,0,0,0,0,0,0,0,0,1,12,130,"","",0,0,0,1,0,0,0,0,0,0
+"243","University of Wisconsin",NA,"mount holyoke college","f",NA,"econ","french",NA,NA,0,1,0,0,1,0,1,1,0,0,0,0,0,12,NA,"","",0,0,0,0,0,1,0,0,0,0
+"244","University of Wisconsin","oregon state university","seattle university","m","stats","econ","math",NA,NA,0,NA,0,0,0,1,0,1,0,1,1,1,0,12,NA,"","",0,0,0,0,0,0,0,1,0,0
+"245","University of Wisconsin",NA,"Instituto Tecnológico Autónomo de México","m",NA,"econ",NA,NA,NA,1,NA,1,1,0,0,0,1,0,0,0,0,0,12,575,"","",0,0,0,0,1,0,0,0,0,0
+"246","University of Wisconsin","upenn","mcgill university","m","econ","econ","math",NA,NA,1,NA,1,0,0,1,0,1,1,1,0,1,0,12,24,"","",0,0,0,0,0,0,0,0,1,0
+"247","University of Wisconsin",NA,"university of texas","f",NA,"econ","english",NA,NA,0,NA,0,0,0,0,1,1,0,0,0,0,0,12,77,"","",0,0,0,0,0,0,0,0,0,0
+"248","University of Wisconsin","barcelona graduate school of economics","higher school of economics","f","econ","econ",NA,NA,NA,1,1,1,0,1,1,1,1,1,0,0,0,0,12,NA,"","",0,1,0,0,0,0,1,0,0,0
+"249","University of Wisconsin","london school of economics","higher school of economics","f","econ","econ",NA,NA,NA,1,NA,1,0,0,1,1,1,1,0,0,0,0,12,NA,"","",0,1,0,0,0,0,1,0,0,0
+"250","University of Wisconsin","sao paulo school of economics","federal university of minas gerais","m","econ","econ",NA,NA,NA,0,NA,1,0,0,1,0,1,1,0,0,0,0,12,575,"","",0,0,0,0,1,0,0,0,0,0
+"251","University of Wisconsin",NA,"wuhan university","m",NA,"econ","math",NA,NA,0,NA,1,0,0,0,0,1,0,1,0,1,0,12,273,"","",0,0,0,1,0,0,0,0,0,0
+"252","University of Wisconsin","new economics school","higher school of economics","f","econ","econ",NA,NA,NA,1,NA,1,0,0,1,1,1,1,0,0,0,0,12,NA,"","",0,1,0,0,0,0,1,0,0,0
+"253","University of Wisconsin","sharif university of technology","university of tehran","m","econ","me",NA,NA,NA,0,NA,1,0,0,1,0,1,1,0,0,0,0,12,575,"","",0,0,0,0,0,0,0,0,0,1
+"254","University of Wisconsin",NA,"nanjing university","m",NA,"econ",NA,NA,NA,0,NA,1,0,0,0,0,1,0,0,0,0,0,12,130,"","",0,0,0,1,0,0,0,0,0,0
+"255","University of Wisconsin","shanghai university of finance and economics","nankai university","m","econ","econ","math",NA,NA,0,NA,1,0,0,1,0,1,1,1,0,1,0,12,277,"","",0,0,0,1,0,0,0,0,0,0
+"256","University of Wisconsin","seoul national university","london school of economics and political science","f","econ","econ",NA,NA,NA,1,NA,1,0,0,1,1,1,1,0,0,0,0,12,35,"","",1,0,0,0,0,0,0,0,0,0
+"257","University of Wisconsin","seoul national university","seoul national university","f","econ","econ",NA,NA,NA,0,NA,1,0,0,1,1,1,1,0,0,0,0,12,36,"","",0,0,0,1,0,0,0,0,0,0
+"258","University of Wisconsin","new economics school","higher school of economics","f","econ","econ",NA,NA,NA,1,NA,1,0,0,1,1,1,1,0,0,0,0,12,NA,"","",0,1,0,0,0,0,1,0,0,0
+"259","University of Wisconsin",NA,"ball state univeristy","f",NA,"econ",NA,NA,NA,0,NA,0,0,0,0,1,1,0,0,0,0,0,12,NA,"","",0,0,0,0,0,0,0,1,0,0
+"260","University of Wisconsin",NA,"university of chicago","m",NA,"econ","philosophy",NA,NA,0,NA,0,1,0,0,0,1,0,0,0,0,0,12,10,"","",0,0,0,0,0,0,0,0,0,0
+"261","University of Wisconsin",NA,"new college of florida","m",NA,"econ","math",NA,NA,0,NA,0,0,0,0,0,1,0,1,0,1,0,12,NA,"","",0,0,0,0,0,1,0,0,0,0
+"262","University of Wisconsin",NA,"tufts university","m",NA,"econ",NA,NA,NA,1,1,0,0,1,0,0,1,0,0,0,0,0,12,252,"","",0,0,0,0,0,0,0,0,0,0
+"263","University of Wisconsin","new york university","university of hongkong","m","econ","econ",NA,NA,NA,0,NA,1,0,0,1,0,1,1,0,0,0,0,12,30,"","",0,0,0,1,0,0,0,0,0,0
+"264","University of Wisconsin",NA,"university of washington","f",NA,"econ","cs",NA,NA,1,1,0,0,1,0,1,1,0,0,0,0,0,12,65,"","",0,0,0,0,0,0,0,0,0,0
+"265","Cornell University","university of illinois","university of illinois","m","stats","econ","math",NA,NA,1,NA,0,0,0,1,0,1,0,1,1,1,0,16,59,"","",0,0,0,0,0,0,0,0,0,0
+"266","Cornell University","peking university","southwest jiaotong university","m","econ","lanscaping and architecture",NA,NA,NA,0,NA,1,1,0,1,0,1,1,0,0,0,0,16,NA,"","",0,0,0,1,0,0,0,1,0,0
+"267","Cornell University","university of wisconsin","shanghai university of finance and economics","f","econ","econ",NA,NA,NA,0,NA,1,0,0,1,1,1,1,0,0,0,0,16,NA,"","",0,0,0,1,0,0,0,1,0,0
+"268","Cornell University",NA,"hongkong university of science and technology","m",NA,"math","china study",NA,NA,0,NA,1,0,0,0,0,0,0,1,0,0,0,16,28,"","",0,0,0,1,0,0,0,0,0,0
+"269","Cornell University",NA,"university of michigan","f",NA,"econ","stats",NA,NA,0,NA,0,1,0,0,1,1,0,1,0,1,0,16,30,"","",0,0,0,0,0,0,0,0,0,0
+"270","Cornell University",NA,"ramapo college of new jersey","m",NA,"math",NA,"econ",NA,1,NA,0,0,0,0,0,1,0,1,0,1,0,16,NA,"","",0,0,0,0,0,1,0,0,0,0
+"271","Cornell University","university of michigan","university of chicago","m","stats","econ",NA,NA,NA,0,NA,0,0,0,1,0,1,0,1,1,1,0,16,10,"","",0,0,0,0,0,0,0,0,0,0
+"272","Cornell University","universidade de brasilia","universidade de brasilia","m","econ","econ","math",NA,NA,0,NA,1,1,0,1,0,1,1,1,0,1,0,16,495,"","",0,0,0,0,0,0,0,0,1,0
+"273","Cornell University","texas am university","university of melbourne","m","econ","econ",NA,NA,NA,0,NA,1,0,0,1,0,1,1,0,0,0,0,16,42,"","",0,0,0,0,0,0,0,0,1,0
+"274","Cornell University",NA,"brigham young university","m",NA,"econ","math",NA,NA,0,NA,0,0,0,0,0,1,0,1,0,1,0,16,675,"","",0,0,0,0,0,0,0,0,0,0
+"275","Cornell University",NA,"university of toronto","m",NA,"econ",NA,NA,NA,0,1,1,0,1,0,0,1,0,0,0,0,0,16,34,"","",0,0,0,0,0,0,0,0,1,0
+"276","Cornell University",NA,"arizona state university","m",NA,"math",NA,NA,NA,0,NA,0,0,0,0,0,0,0,1,0,0,0,16,249,"","",0,0,0,0,0,0,0,0,0,0
+"277","Cornell University","university of chile","university of chile","m","econ","econ",NA,NA,NA,1,NA,1,1,0,1,0,1,1,0,0,0,0,16,209,"","",0,0,0,0,1,0,0,0,0,0
+"278","Cornell University","university of kentucky","communication university of china","f","econ","journalism",NA,NA,NA,0,NA,1,0,0,1,1,1,1,0,0,0,0,16,NA,"","",0,0,0,1,0,0,0,1,0,0
+"279","Cornell University","new york university","university of oxford","f","econ","econ",NA,NA,NA,1,NA,1,0,0,1,1,1,1,0,0,0,0,16,6,"","",1,0,0,0,0,0,0,0,0,0
+"280","Cornell University","renmin university of china","renmin university of china","m","econ","econ","math",NA,NA,1,NA,1,0,0,1,0,1,1,1,0,1,0,16,445,"","",0,0,0,1,0,0,0,0,0,0
+"281","Cornell University","cornell univeristy","xiamen university","f","stats","econ","math",NA,NA,0,NA,1,0,0,1,1,1,0,1,1,1,0,16,405,"","",0,0,0,1,0,0,0,0,0,0
+"282","Duke University",NA,"zhejiang university","m",NA,"econ",NA,NA,NA,0,NA,1,0,0,0,0,1,0,0,0,0,0,16,110,"","",0,0,0,1,0,0,0,0,0,0
+"283","Duke University","central european university","eotvos lorand university","f","econ","econ",NA,NA,NA,0,1,1,0,1,1,1,1,1,0,0,0,0,16,NA,"","",1,0,0,0,0,0,0,1,0,0
+"284","Duke University","johns hopkins university","college of william and mary","m",NA,NA,NA,NA,NA,0,NA,0,0,0,1,0,0,0,0,0,0,1,16,NA,"","",0,0,0,0,0,1,0,0,0,0
+"285","Duke University",NA,"tufts university","m",NA,"econ","physics",NA,NA,0,1,0,0,1,0,0,1,0,0,0,0,0,16,252,"","",0,0,0,0,0,0,0,0,0,0
+"286","Duke University",NA,"fudan","f",NA,"econ",NA,NA,NA,0,NA,1,0,0,0,1,1,0,0,0,0,0,16,51,"","",0,0,0,1,0,0,0,0,0,0
+"287","Duke University",NA,"columbia university","f",NA,"econ","math",NA,NA,0,NA,0,1,0,0,1,1,0,1,0,1,0,16,22,"","",0,0,0,0,0,0,0,0,0,0
+"288","Duke University","tbilisi state university","yerevan state university","m","econ","econ","math",NA,NA,0,NA,1,0,0,1,0,1,1,1,0,1,0,16,NA,"","",0,0,0,0,0,0,0,1,0,1
+"289","Duke University","johns hopkins university","washington university in st.louis","m","international relations","econ",NA,NA,NA,1,NA,0,1,0,1,0,1,0,0,0,0,0,16,110,"","",0,0,0,0,0,0,0,0,0,0
+"290","University of Minnesota",NA,"mount holyoke college","f",NA,"math","econ",NA,NA,1,NA,0,0,0,0,1,1,0,1,0,1,0,16,NA,"","",0,0,0,0,0,1,0,0,0,0
+"291","University of Minnesota",NA,"university of washington","f",NA,"econ","math",NA,NA,1,NA,0,0,0,0,1,1,0,1,0,1,0,16,65,"","",0,0,0,0,0,0,0,0,0,0
+"292","University of Minnesota","institue for advanced studies","corvinus university of budapest","m","econ","econ",NA,NA,NA,0,NA,1,0,0,1,0,1,1,0,0,0,0,16,NA,"","",1,0,0,0,0,0,0,1,0,0
+"293","University of Minnesota",NA,"george washington university","m",NA,"econ",NA,NA,NA,0,1,0,0,1,0,0,1,0,0,0,0,0,16,327,"","",0,0,0,0,0,0,0,0,0,0
+"294","University of Minnesota",NA,"saint john university","m",NA,"econ","math",NA,NA,1,NA,0,1,0,0,0,1,0,1,0,1,0,16,NA,"","",0,0,0,0,0,0,0,1,0,0
+"295","University of Minnesota",NA,"chinese university of hongkong","f",NA,NA,NA,NA,NA,0,NA,1,0,0,0,1,0,0,0,0,0,1,16,51,"","",0,0,0,1,0,0,0,0,0,0
+"296","University of Minnesota","bogazici university","bogazici university","m","econ","engineering",NA,NA,NA,1,NA,1,0,0,1,0,1,1,0,0,0,0,16,NA,"","",0,0,0,0,0,0,0,1,0,1
+"297","University of Minnesota",NA,"georgetown university","m",NA,"econ",NA,NA,NA,0,NA,0,0,0,0,0,1,0,0,0,0,0,16,213,"","",0,0,0,0,0,0,0,0,0,0
+"298","University of Minnesota","higher school of economics","higher school of economics","m","econ","econ",NA,NA,NA,1,NA,1,0,0,1,0,1,1,0,0,0,0,16,NA,"","",0,1,0,0,0,0,1,0,0,0
+"299","University of Minnesota",NA,"Instituto Tecnológico Autónomo de México","f",NA,"econ",NA,NA,NA,1,NA,1,1,0,0,1,1,0,0,0,0,0,16,575,"","",0,0,0,0,1,0,0,0,0,0
+"300","University of Minnesota","toulouse school of economics","university of hongkong","f","econ","econ",NA,NA,NA,0,NA,1,0,0,1,1,1,1,0,0,0,0,16,30,"","",0,0,0,1,0,0,0,0,0,0
+"301","University of Minnesota",NA,"university of arizona","m",NA,"econ","math",NA,NA,1,NA,0,0,0,0,0,1,0,1,0,1,0,16,216,"","",0,0,0,0,0,0,0,0,0,0
+"302","University of Minnesota","barcelona graduate school of economics","universitat pompeu fabra","m","econ","econ",NA,NA,NA,0,NA,1,0,0,1,0,1,1,0,0,0,0,16,NA,"","",0,0,0,0,0,0,0,1,1,0
+"303","University of Minnesota",NA,"university of minnesota","m",NA,"econ",NA,NA,NA,0,NA,0,0,0,0,0,1,0,0,0,0,0,16,123,"","",0,0,0,0,0,0,0,0,0,0
+"304","University of Minnesota",NA,"swarthmore college","m",NA,"econ","math",NA,NA,1,1,0,0,1,0,0,1,0,1,0,1,0,16,NA,"","",0,0,0,0,0,1,0,0,0,0
+"305","Brown University","bocconi university","bocconi university","f","econ","econ",NA,NA,NA,1,1,1,0,1,1,1,1,1,0,0,0,0,19,NA,"","",1,0,0,0,0,0,1,0,0,0
+"306","Brown University","universidad de los andes","universidad de los andes","m","econ","econ",NA,NA,NA,0,1,1,0,1,1,0,1,1,0,0,0,0,19,283,"","",0,0,0,0,1,0,0,0,0,0
+"307","Brown University","universidad nacional de la plata","universidad nacional de la plata","m","econ","econ",NA,NA,NA,1,NA,1,0,0,1,0,1,1,0,0,0,0,19,525,"","",0,0,0,0,1,0,0,0,0,0
+"308","Brown University","Instituto Tecnológico Autónomo de México","Instituto Tecnológico Autónomo de México","m","econ","econ",NA,NA,NA,1,NA,1,1,0,1,0,1,1,0,0,0,0,19,575,"","",0,0,0,0,1,0,0,0,0,0
+"309","Brown University","bocconi university","bocconi university","m","econ","econ",NA,NA,NA,1,NA,1,0,0,1,0,1,1,0,0,0,0,19,NA,"","",1,0,0,0,0,0,1,0,0,0
+"310","Brown University","brazilian school of economics","federal university of parana","m","econ","bio",NA,NA,NA,0,NA,1,0,0,1,0,1,1,0,0,0,0,19,NA,"","",0,0,0,0,1,0,0,1,0,0
+"311","Brown University","universidad nacional de la plata","universidad nacional de salta","f","econ","econ",NA,NA,NA,1,NA,1,0,0,1,1,1,1,0,0,0,0,19,NA,"","",0,0,0,0,1,0,0,1,0,0
+"312","Brown University","ecole des hautes etudes en sciences sociales","ecole normale superieure","m","econ","econ",NA,NA,NA,0,NA,1,0,0,1,0,1,1,0,0,0,0,19,188,"","",1,0,0,0,0,0,0,0,0,0
+"313","Carnegie Mellon University",NA,"national university of singapore","f",NA,"econ",NA,NA,NA,1,NA,1,1,0,0,1,1,0,0,0,0,0,20,12,"","",0,0,0,1,0,0,0,0,0,0
+"314","Carnegie Mellon University",NA,"tufts university","m",NA,"econ","history",NA,NA,0,NA,0,1,0,0,0,1,0,0,0,0,0,20,252,"","",0,0,0,0,0,0,0,0,0,0
+"315","Carnegie Mellon University",NA,"pennsylvania state university","f",NA,"econ","finance",NA,NA,1,NA,0,0,0,0,1,1,0,0,0,0,0,20,101,"","",0,0,0,0,0,0,0,0,0,0
+"316","University of California-San Diego",NA,"ucb","m",NA,"econ",NA,NA,NA,0,NA,0,0,0,0,0,1,0,0,0,0,0,12,26,"","",0,0,0,0,0,0,0,0,0,0
+"317","University of California-San Diego","cornell univeristy","bocconi university","m","econ","econ",NA,NA,NA,1,NA,1,0,0,1,0,1,1,0,0,0,0,12,NA,"","",1,0,0,0,0,0,1,0,0,0
+"318","University of California-San Diego","barcelona graduate school of economics","luiss guido carli","m","econ","econ",NA,NA,NA,0,NA,1,0,0,1,0,1,1,0,0,0,0,12,NA,"","",1,0,0,0,0,0,0,1,0,0
+"319","University of California-San Diego","university of delhi","university of delhi","f","econ","econ",NA,NA,NA,1,NA,1,0,0,1,1,1,1,0,0,0,0,12,485,"","",0,0,1,0,0,0,0,0,0,0
+"320","University of California-San Diego",NA,"higher school of economics","f",NA,"econ",NA,NA,NA,1,NA,1,0,0,0,1,1,0,0,0,0,0,12,NA,"","",0,1,0,0,0,0,1,0,0,0
+"321","University of California-San Diego",NA,"university of oregon","m",NA,"econ","math",NA,NA,0,NA,0,0,0,0,0,1,0,1,0,1,0,12,525,"","",0,0,0,0,0,0,0,0,0,0
+"322","University of California-San Diego","Instituto Tecnológico Autónomo de México","Instituto Tecnológico Autónomo de México","m","econ","econ",NA,NA,NA,0,NA,1,0,0,1,0,1,1,0,0,0,0,12,575,"","",0,0,0,0,1,0,0,0,0,0
+"323","University of California-San Diego","mit","peking university","f","finance","econ","stats",NA,NA,0,NA,1,1,0,1,1,1,0,1,0,1,0,12,41,"","",0,0,0,1,0,0,0,0,0,0
+"324","University of California-San Diego",NA,"higher school of economics","m",NA,"econ",NA,NA,NA,1,NA,1,0,0,0,0,1,0,0,0,0,0,12,NA,"","",0,1,0,0,0,0,1,0,0,0
+"325","University of California-San Diego",NA,"brigham young university","m",NA,"econ","math",NA,NA,0,1,0,0,1,0,0,1,0,1,0,1,0,12,675,"","",0,0,0,0,0,0,0,0,0,0
+"326","University of California-San Diego",NA,"ucb","m",NA,"econ",NA,NA,NA,0,NA,0,0,0,0,0,1,0,0,0,0,0,12,26,"","",0,0,0,0,0,0,0,0,0,0
+"327","University of California-San Diego","sungkyunkwan university","sungkyunkwan university","m","econ","econ",NA,NA,NA,0,NA,1,0,0,1,0,1,1,0,0,0,0,12,118,"","",0,0,0,1,0,0,0,0,0,0
+"328","University of California-San Diego","stanford","university of wisconsin","f","engineering","econ","engineering",NA,NA,0,NA,0,0,0,1,1,1,0,0,0,0,0,12,54,"","",0,0,0,0,0,0,0,0,0,0
+"329","University of California-San Diego",NA,"college of william and mary","f",NA,"econ","math",NA,NA,1,NA,0,0,0,0,1,1,0,1,0,1,0,12,NA,"","",0,0,0,0,0,1,0,0,0,0
+"330","University of California-San Diego",NA,"renmin university of china","f",NA,"econ","math",NA,NA,0,NA,1,0,0,0,1,1,0,1,0,1,0,12,445,"","",0,0,0,1,0,0,0,0,0,0
+"331","University of Maryland-College Park","tsinghua university","tsinghua university","m","econ","econ","math",NA,NA,0,NA,1,0,0,1,0,1,1,1,0,1,0,21,25,"","",0,0,0,1,0,0,0,0,0,0
+"332","University of Maryland-College Park","university of delhi","university of delhi","m","econ","econ",NA,NA,NA,0,1,1,0,1,1,0,1,1,0,0,0,0,21,485,"","",0,0,1,0,0,0,0,0,0,0
+"333","University of Maryland-College Park","johns hopkins university","peking university","f","econ","econ",NA,NA,NA,0,NA,1,1,0,1,1,1,1,0,0,0,0,21,41,"","",0,0,0,1,0,0,0,0,0,0
+"334","University of Maryland-College Park",NA,"duke university","f",NA,"econ",NA,NA,NA,1,1,0,0,1,0,1,1,0,0,0,0,0,21,29,"","",0,0,0,0,0,0,0,0,0,0
+"335","University of Maryland-College Park",NA,"oberlin college","m",NA,"econ","history",NA,NA,0,1,0,0,1,0,0,1,0,0,0,0,0,21,NA,"","",0,0,0,0,0,1,0,0,0,0
+"336","University of Maryland-College Park",NA,"university of chicago","m",NA,"econ","stats",NA,NA,0,1,0,0,1,0,0,1,0,1,0,1,0,21,10,"","",0,0,0,0,0,0,0,0,0,0
+"337","University of Maryland-College Park","university of tokyo","university of tsukuba","m","econ","international relations",NA,NA,NA,0,NA,1,0,0,1,0,1,1,0,0,0,0,21,219,"","",0,0,0,1,0,0,0,0,0,0
+"338","University of Maryland-College Park","central european university","budapest university of technology and economics","f","econ","math",NA,NA,NA,0,NA,1,0,0,1,1,1,1,1,0,1,0,21,NA,"","",1,0,0,0,0,0,0,1,0,0
+"339","University of Maryland-College Park","athens university of economics and business","national technical university of athens","m","econ","ce",NA,NA,NA,0,NA,1,0,0,1,0,1,1,0,0,0,0,21,376,"","",1,0,0,0,0,0,0,0,0,0
+"340","University of Maryland-College Park","national taiwan university","national taiwan university","f","econ","econ",NA,NA,NA,0,NA,1,0,0,1,1,1,1,0,0,0,0,21,70,"","",0,0,0,1,0,0,0,0,0,0
+"341","University of Maryland-College Park","chinese university of hongkong","chinese university of hongkong","m","econ","econ",NA,NA,NA,0,NA,1,0,0,1,0,1,1,0,0,0,0,21,51,"","",0,0,0,1,0,0,0,0,0,0
+"342","University of Maryland-College Park",NA,"university of virginia","m",NA,"econ",NA,NA,NA,0,NA,0,0,0,0,0,1,0,0,0,0,0,21,172,"","",0,0,0,0,0,0,0,0,0,0
+"343","University of Maryland-College Park","university of delhi","university of delhi","m","econ","econ",NA,NA,NA,0,NA,1,0,0,1,0,1,1,0,0,0,0,21,485,"","",0,0,1,0,0,0,0,0,0,0
+"344","University of Rochester",NA,"wuhan university","m",NA,"econ",NA,NA,NA,1,NA,1,0,0,0,0,1,0,0,0,0,0,21,273,"","",0,0,0,1,0,0,0,0,0,0
+"345","University of Rochester","yeshiva university","zhejiang university","m","econ","econ",NA,NA,NA,0,NA,1,0,0,1,0,1,1,0,0,0,0,21,110,"","",0,0,0,1,0,0,0,0,0,0
+"346","University of Rochester",NA,"george mason university","m",NA,"econ",NA,NA,NA,1,NA,0,0,0,0,0,1,0,0,0,0,0,21,675,"","",0,0,0,0,0,0,0,0,0,0
+"347","University of Rochester","universidad torcuato di tella","universidad del salvador","m","econ","econ",NA,NA,NA,0,NA,1,0,0,1,0,1,1,0,0,0,0,21,NA,"","",0,0,0,0,1,0,0,1,0,0
+"348","University of Rochester",NA,"wuhan university","m",NA,"econ","math",NA,NA,0,NA,1,0,0,0,0,1,0,1,0,1,0,21,273,"","",0,0,0,1,0,0,0,0,0,0
+"349","University of Rochester","georgetown university","universidad mayor de san andres","m","econ","econ",NA,NA,NA,0,NA,1,0,0,1,0,1,1,0,0,0,0,21,NA,"","",0,0,0,0,1,0,0,1,0,0
+"350","University of Rochester","yonsei university","yonsei university","f","econ","econ",NA,NA,NA,0,NA,1,0,0,1,1,1,1,0,0,0,0,21,105,"","",0,0,0,1,0,0,0,0,0,0
+"351","University of Rochester","universidad de los andes","universidad de los andes","m","econ","econ",NA,NA,NA,0,1,1,0,1,1,0,1,1,0,0,0,0,21,283,"","",0,0,0,0,1,0,0,0,0,0
+"352","University of Rochester",NA,"northwestern university","m",NA,"econ","stats",NA,NA,1,NA,0,1,0,0,0,1,0,1,0,1,0,21,32,"","",0,0,0,0,0,0,0,0,0,0
+"353","Boston University",NA,"carnegie mellon university","m",NA,"econ","math",NA,NA,0,NA,0,0,0,0,0,1,0,1,0,1,0,23,62,"","",0,0,0,0,0,0,0,0,0,0
+"354","Boston University","university of illinois","franklin w olin college of engineering","m","finance","ce",NA,NA,NA,0,NA,0,1,0,1,0,0,0,0,0,0,1,23,NA,"","",0,0,0,0,0,1,0,0,0,0
+"355","Boston University",NA,"new york university","f",NA,"econ",NA,NA,NA,1,NA,0,0,0,0,1,1,0,0,0,0,0,23,53,"","",0,0,0,0,0,0,0,0,0,0
+"356","Boston University","renmin university of china","renmin university of china","m","econ","econ",NA,NA,NA,0,NA,1,0,0,1,0,1,1,0,0,0,0,23,445,"","",0,0,0,1,0,0,0,0,0,0
+"357","Boston University","waseda university","waseda university","m","econ","pol",NA,NA,NA,0,1,1,0,1,1,0,1,1,0,0,0,0,23,212,"","",0,0,0,1,0,0,0,0,0,0
+"358","Boston University","duke university","duke university","m","econ","econ","philosophy",NA,NA,0,NA,0,0,0,1,0,1,1,0,0,0,0,23,29,"","",0,0,0,0,0,0,0,0,0,0
+"359","Boston University",NA,"hongkong university of science and technology","m",NA,"econ","math",NA,NA,0,1,1,0,1,0,0,1,0,1,0,1,0,23,28,"","",0,0,0,1,0,0,0,0,0,0
+"360","Boston University",NA,"davidson college","m",NA,"econ","math",NA,NA,1,1,0,0,1,0,0,1,0,1,0,1,0,23,NA,"","",0,0,0,0,0,1,0,0,0,0
+"361","Boston University",NA,"hongkong university of science and technology","f",NA,"econ","math",NA,NA,0,NA,1,0,0,0,1,1,0,1,0,1,0,23,28,"","",0,0,0,1,0,0,0,0,0,0
+"362","Boston University","vanderbilt university","peking university","m","econ","econ","information management",NA,NA,0,NA,1,0,0,1,0,1,1,0,0,0,0,23,41,"","",0,0,0,1,0,0,0,0,0,0
+"363","Boston University","seoul national university","london school of economics and political science","m","econ","econ","math",NA,NA,0,NA,1,0,0,1,0,1,1,1,0,1,0,23,35,"","",1,0,0,0,0,0,0,0,0,0
+"364","Boston University","peking university","nankai university","m","econ","econ",NA,NA,NA,0,NA,1,0,0,1,0,1,1,0,0,0,0,23,277,"","",0,0,0,1,0,0,0,0,0,0
+"365","Boston University",NA,"oberlin college","m",NA,"econ",NA,NA,NA,0,1,0,0,1,0,0,1,0,0,0,0,0,23,NA,"","",0,0,0,0,0,1,0,0,0,0
+"366","Boston University","hongkong university of science and technology","hongkong university of science and technology","m","econ","econ","math",NA,NA,1,NA,1,0,0,1,0,1,1,1,0,1,0,23,28,"","",0,0,0,1,0,0,0,0,0,0
+"367","Boston University","free university berlin","free university berlin","f","econ","econ",NA,NA,NA,0,NA,1,0,0,1,1,1,1,0,0,0,0,23,119,"","",1,0,0,0,0,0,0,0,0,0
+"368","Boston University","renmin university of china","renmin university of china","m","econ","econ",NA,NA,NA,0,NA,1,0,0,1,0,1,1,0,0,0,0,23,445,"","",0,0,0,1,0,0,0,0,0,0
+"369","Boston University","university of naples federico","university of naples federico","m","econ","econ",NA,NA,NA,0,NA,1,0,0,1,0,1,1,0,0,0,0,23,445,"","",1,0,0,0,0,0,0,0,0,0
+"370","Boston University",NA,"indiana university","m",NA,"econ","math",NA,NA,0,NA,0,1,0,0,0,1,0,1,0,1,0,23,263,"","",0,0,0,0,0,0,0,0,0,0
+"371","Boston University",NA,"union college","f",NA,"econ","math",NA,NA,1,NA,0,0,0,0,1,1,0,1,0,1,0,23,NA,"","",0,0,0,0,0,1,0,0,0,0
+"372","Boston University",NA,"university of arizona","m",NA,"econ","math",NA,NA,0,NA,0,0,0,0,0,1,0,1,0,1,0,23,216,"","",0,0,0,0,0,0,0,0,0,0
+"373","Boston University","western illinois university","university of dhaka","m","econ","econ","math",NA,NA,1,NA,1,1,0,1,0,1,1,1,0,1,0,23,NA,"","",0,0,1,0,0,0,0,1,0,0
+"374","Boston University",NA,"brigham young university","m",NA,"econ","math",NA,NA,1,NA,0,0,0,0,0,1,0,1,0,1,0,23,675,"","",0,0,0,0,0,0,0,0,0,0
+"375","Boston University","universidad de chile","universidad de chile","m","econ","econ",NA,NA,NA,0,1,1,0,1,1,0,1,1,0,0,0,0,23,209,"","",0,0,0,0,1,0,0,0,0,0
+"376","Boston University",NA,"tsinghua university","m",NA,"econ","chemistry",NA,NA,0,NA,1,0,0,0,0,1,0,0,0,0,0,23,25,"","",0,0,0,1,0,0,0,0,0,0
+"377","Boston University","bocconi university","bocconi university","f","econ","econ",NA,NA,NA,0,1,1,0,1,1,1,1,1,0,0,0,0,23,NA,"","",1,0,0,0,0,0,1,0,0,0
+"378","Boston University",NA,"macalester college","m",NA,"econ","psychology",NA,NA,1,NA,0,0,0,0,0,1,0,0,0,0,0,23,NA,"","",0,0,0,0,0,1,0,0,0,0
+"379","Boston University","bocconi university","bocconi university","m","econ","econ",NA,NA,NA,0,NA,1,0,0,1,0,1,1,0,0,0,0,23,NA,"","",1,0,0,0,0,0,1,0,0,0
+"380","Boston University",NA,"university of michigan","m",NA,"econ","math",NA,NA,1,NA,0,0,0,0,0,1,0,1,0,1,0,23,30,"","",0,0,0,0,0,0,0,0,0,0
+"381","Boston University","university of texas","university of rochester","m","econ","econ","math",NA,NA,1,NA,0,0,0,1,0,1,1,1,0,1,0,23,190,"","",0,0,0,0,0,0,0,0,0,0
+"382","Boston University",NA,"fudan","m",NA,"econ",NA,NA,NA,0,NA,1,0,0,0,0,1,0,0,0,0,0,23,51,"","",0,0,0,1,0,0,0,0,0,0
+"383","Boston University","rochester institute of technology","london school of economics","m",NA,"econ","econ","math",NA,1,NA,1,0,0,1,0,1,0,1,0,1,0,23,35,"","",1,0,0,0,0,0,0,0,0,0
+"384","Johns Hopkins University","johns hopkins university","tsinghua university","m","finance","aerospace engineering",NA,NA,NA,0,NA,1,0,0,1,0,0,0,0,0,0,1,23,25,"","",0,0,0,1,0,0,0,0,0,0
+"385","Johns Hopkins University","middle east technical university","middle east technical university","m","engineering","engineering",NA,NA,NA,0,NA,1,0,0,1,0,0,0,0,0,0,1,23,435,"","",0,0,0,0,0,0,0,0,0,1
+"386","Johns Hopkins University","institue for advanced studies","university of vienna","f","econ","pol",NA,NA,NA,1,NA,1,0,0,1,1,1,1,0,0,0,0,23,NA,"","",1,0,0,0,0,0,0,1,0,0
+"387","Boston College","indian istatistical institute","indian institute of technology","m","econ","engineering",NA,NA,NA,0,NA,1,0,0,1,0,1,1,0,0,0,0,25,179,"","",0,0,1,0,0,0,0,0,0,0
+"388","Boston College","university of tennessee","harvard","f","econ","econ",NA,NA,NA,0,NA,0,0,0,1,1,1,1,0,0,0,0,25,2,"","",0,0,0,0,0,0,0,0,0,0
+"389","Boston College",NA,"colgate university","m",NA,"econ","math",NA,NA,1,NA,0,0,0,0,0,1,0,1,0,1,0,25,NA,"","",0,0,0,0,0,1,0,0,0,0
+"390","Boston College","university of delhi","anna university","m","econ","ee",NA,NA,NA,0,NA,1,0,0,1,0,1,1,0,0,0,0,25,NA,"","",0,0,1,0,0,0,0,1,0,0
+"391","Boston College","shandong university","sichuan university","m","econ","finance",NA,NA,NA,0,NA,1,0,0,1,0,1,1,0,0,0,0,25,495,"","",0,0,0,1,0,0,0,0,0,0
+"392","Boston College","new economics school","lomonosov moscow state university","m","econ","econ",NA,NA,NA,0,1,1,1,1,1,0,1,1,0,0,0,0,25,NA,"","",0,1,0,0,0,0,0,1,0,0
+"393","Boston College","delhi school of economics","university of delhi","m","econ","stats",NA,NA,NA,1,NA,1,0,0,1,0,1,1,1,0,1,0,25,485,"","",0,0,1,0,0,0,0,0,0,0
+"394","Boston College","university of bologna","university of bologna","f","econ","international relations",NA,NA,NA,1,NA,1,0,0,1,1,1,1,0,0,0,0,25,204,"","",1,0,0,0,0,0,0,0,0,0
+"395","Boston College","bogazici university","bogazici university","m","econ","ee","math",NA,NA,0,NA,1,0,0,1,0,1,1,1,0,1,0,25,NA,"","",0,0,0,0,0,0,0,1,0,1
+"396","Boston College","delhi school of economics","delhi university","f","econ","econ",NA,NA,NA,0,1,1,0,1,1,1,1,1,0,0,0,0,25,485,"","",0,0,1,0,0,0,0,0,0,0
+"397","Boston College","university of bologna","university of bologna","m","econ","econ",NA,NA,NA,1,NA,1,0,0,1,0,1,1,0,0,0,0,25,204,"","",1,0,0,0,0,0,0,0,0,0
+"398","Boston College","hec monttreal","laval university","m","econ","econ",NA,NA,NA,0,NA,1,0,0,1,0,1,1,0,0,0,0,25,324,"","",0,0,0,0,0,0,0,0,1,0
+"399","Boston College",NA,"union college","m",NA,"econ","math",NA,NA,1,NA,0,0,0,0,0,1,0,1,0,1,0,25,NA,"","",0,0,0,0,0,1,0,0,0,0
+"400","Boston College","bocconi university","bocconi university","f","econ","econ",NA,NA,NA,0,1,1,0,1,1,1,1,1,0,0,0,0,25,NA,"","",1,0,0,0,0,0,1,0,0,0
+"401","Boston College",NA,"tufts university","m",NA,"econ",NA,NA,NA,1,1,0,0,1,0,0,1,0,0,0,0,0,25,252,"","",0,0,0,0,0,0,0,0,0,0
+"402","Boston College","delhi school of economics","university of delhi","m","econ","econ",NA,NA,NA,0,1,1,0,1,1,0,1,1,0,0,0,0,25,485,"","",0,0,1,0,0,0,0,0,0,0
+"403","Pennsylvania State University","kyoto university","chongqing technology and business university","m","econ","econ",NA,NA,NA,0,NA,1,0,0,1,0,1,1,0,0,0,0,25,NA,"","",0,0,0,1,0,0,0,1,0,0
+"404","Pennsylvania State University","university of melbourne","university of melbourne","m","econ","econ",NA,NA,NA,0,NA,1,0,0,1,0,1,1,0,0,0,0,25,42,"","",0,0,0,0,0,0,0,0,1,0
+"405","Pennsylvania State University","shanghai university of finance and economics","shanghai university of finance and economics","m","econ","econ",NA,NA,NA,1,NA,1,0,0,1,0,1,1,0,0,0,0,25,NA,"","",0,0,0,1,0,0,0,1,0,0
+"406","Pennsylvania State University",NA,"wuhan university","m",NA,"econ","math",NA,NA,0,NA,1,0,0,0,0,1,0,1,0,1,0,25,273,"","",0,0,0,1,0,0,0,0,0,0
+"407","Pennsylvania State University","bilkent university","bilkent university","m","econ","econ",NA,NA,NA,0,NA,1,0,0,1,0,1,1,0,0,0,0,25,394,"","",0,0,0,0,0,0,0,0,0,1
+"408","Pennsylvania State University","renmin university of china","nanjing university","m","econ","finance",NA,NA,NA,0,NA,1,0,0,1,0,1,1,0,0,0,0,25,130,"","",0,0,0,1,0,0,0,0,0,0
+"409","Pennsylvania State University","hitotsubashi university","hitotsubashi university","m","econ","econ",NA,NA,NA,0,NA,1,0,0,1,0,1,1,0,0,0,0,25,NA,"","",0,0,0,1,0,0,0,1,0,0
+"410","Pennsylvania State University",NA,"wuhan university","f",NA,"econ","math",NA,NA,0,NA,1,0,0,0,1,1,0,1,0,1,0,25,273,"","",0,0,0,1,0,0,0,0,0,0
+"411","Pennsylvania State University","tbilisi state university","tbilisi state university","f","econ","pol",NA,NA,NA,0,NA,1,1,0,1,1,1,1,0,0,0,0,25,NA,"","",0,0,0,0,0,0,0,1,0,1
+"412","Pennsylvania State University","delhi school of economics","vellore institute of technology","m","econ","tech",NA,NA,NA,0,NA,0,1,0,1,0,1,1,0,0,0,0,25,NA,"","",0,0,0,0,0,0,0,1,0,0
+"413","Pennsylvania State University","sabanci university","sabanci university","m","econ","econ",NA,"math",NA,0,NA,1,0,0,1,0,1,1,1,0,1,0,25,445,"","",0,0,0,0,0,0,0,0,0,1
+"414","University of Texas",NA,"university of texas","m",NA,"econ","math",NA,NA,1,NA,0,0,0,0,0,1,0,1,0,1,0,27,77,"","",0,0,0,0,0,0,0,0,0,0
+"415","University of Texas",NA,"peking university","m",NA,"econ","math",NA,NA,0,NA,1,0,0,0,0,1,0,1,0,1,0,27,41,"","",0,0,0,1,0,0,0,0,0,0
+"416","University of Texas",NA,"cornell","m",NA,"econ","cs",NA,NA,1,NA,0,0,0,0,0,1,0,0,0,0,0,27,17,"","",0,0,0,0,0,0,0,0,0,0
+"417","University of Texas",NA,"harding university","m",NA,"econ",NA,NA,NA,1,NA,0,1,0,0,0,1,0,0,0,0,0,27,NA,"","",0,0,0,0,0,0,0,1,0,0
+"418","University of Texas",NA,"university of maryland","m",NA,"econ","cs",NA,NA,0,NA,0,1,0,0,0,1,0,0,0,0,0,27,126,"","",0,0,0,0,0,0,0,0,0,0
+"419","University of Texas","cornell univeristy","dartmouth college","f","econ","econ","math",NA,NA,0,1,0,0,1,1,1,1,1,1,0,1,0,27,NA,"","",0,0,0,0,0,1,0,0,0,0
+"420","University of Texas",NA,"karlsruhe institute of technology","m",NA,"engineering",NA,NA,NA,0,NA,1,0,0,0,0,0,0,0,0,0,1,27,93,"","",1,0,0,0,0,0,0,0,0,0
+"421","University of Texas","center for monetary and financial studies","university of minnesota","m",NA,"econ","econ",NA,NA,0,NA,0,0,0,1,0,1,0,0,0,0,0,27,123,"","",0,0,0,0,0,0,0,0,0,0
+"422","University of Texas",NA,"yonsei university","m",NA,"econ",NA,NA,NA,0,NA,1,0,0,0,0,1,0,0,0,0,0,27,105,"","",0,0,0,1,0,0,0,0,0,0
+"423","University of Texas","university of delhi","university of delhi","f","econ","econ",NA,NA,NA,0,NA,1,0,0,1,1,1,1,0,0,0,0,27,485,"","",0,0,1,0,0,0,0,0,0,0
+"424","University of Texas","bogazici university","sabanci university","m","econ","ee",NA,NA,NA,0,NA,1,0,0,1,0,1,1,0,0,0,0,27,445,"","",0,0,0,0,0,0,0,0,0,1
+"425","University of Texas","london school of economics","george washington university","m","econ","econ",NA,NA,NA,0,1,0,0,1,1,0,1,1,0,0,0,0,27,327,"","",0,0,0,0,0,0,0,0,0,0
+"426","University of Texas",NA,"university of rochester","m",NA,"econ","math",NA,NA,0,1,0,0,1,0,0,1,0,1,0,1,0,27,190,"","",0,0,0,0,0,0,0,0,0,0
+"427","Washington University in St. Louis",NA,"wuhan university","f",NA,"econ","math",NA,NA,0,NA,1,0,0,0,1,1,0,1,0,1,0,27,273,"","",0,0,0,1,0,0,0,0,0,0
+"428","Washington University in St. Louis",NA,"universidad de costa rica","f",NA,"econ",NA,NA,NA,1,NA,1,0,0,0,1,1,0,0,0,0,0,27,525,"","",0,0,0,0,1,0,0,0,0,0
+"429","Washington University in St. Louis",NA,"wuhan university","m",NA,NA,NA,NA,NA,0,NA,1,0,0,0,0,0,0,0,0,0,1,27,273,"","",0,0,0,1,0,0,0,0,0,0
+"430","Washington University in St. Louis","peking university","tongji university","m",NA,"engineering",NA,NA,NA,0,NA,1,0,0,1,0,0,0,0,0,0,1,27,345,"","",0,0,0,1,0,0,0,0,0,0
+"431","Washington University in St. Louis",NA,"indian institute of technology","m",NA,"econ",NA,NA,NA,0,NA,1,0,0,0,0,1,0,0,0,0,0,27,179,"","",0,0,1,0,0,0,0,0,0,0
+"432","Washington University in St. Louis",NA,"mercyhurst university","f",NA,"econ","math",NA,NA,1,NA,0,0,0,0,1,1,0,1,0,1,0,27,NA,"","",0,0,0,0,0,0,0,1,0,0
+"433","Washington University in St. Louis",NA,"ucla","m",NA,"econ",NA,NA,NA,0,NA,0,0,0,0,0,1,0,0,0,0,0,27,27,"","",0,0,0,0,0,0,0,0,0,0
+"434","Washington University in St. Louis","ca foscari university of venice","yildiz technical university","m","econ","econ",NA,NA,NA,0,NA,1,0,0,1,0,1,1,0,0,0,0,27,NA,"","",0,0,0,0,0,0,0,1,0,1
+"435","Washington University in St. Louis","university of tokyo","asia university","m","econ","econ",NA,NA,NA,0,NA,1,0,0,1,0,1,1,0,0,0,0,27,NA,"","",0,0,0,1,0,0,0,1,0,0
+"436","Michigan State University",NA,"syracuse university","m",NA,"econ","math",NA,NA,0,NA,0,0,0,0,0,1,0,1,0,1,0,29,525,"","",0,0,0,0,0,0,0,0,0,0
+"437","Michigan State University","seoul national university","seoul national university","m","econ","econ",NA,NA,NA,0,NA,1,0,0,1,0,1,1,0,0,0,0,29,36,"","",0,0,0,1,0,0,0,0,0,0
+"438","Michigan State University","delhi school of economics","presidency college (india)","m","econ","econ",NA,NA,NA,1,NA,1,0,0,1,0,1,1,0,0,0,0,29,NA,"","",0,0,1,0,0,0,0,1,0,0
+"439","Michigan State University",NA,"peking university","m",NA,"econ",NA,NA,NA,0,NA,1,0,0,0,0,1,0,0,0,0,0,29,41,"","",0,0,0,1,0,0,0,0,0,0
+"440","Michigan State University","national chengchi university","national chengchi university","m","econ","econ",NA,NA,NA,0,NA,1,0,0,1,0,1,1,0,0,0,0,29,675,"","",0,0,0,1,0,0,0,0,0,0
+"441","Michigan State University",NA,"portland state university","m",NA,"econ",NA,"math",NA,0,NA,0,1,0,0,0,1,0,1,0,1,0,29,NA,"","",0,0,0,0,0,0,0,1,0,0
+"442","Michigan State University","indian statistical institute","indian institute of technology","m","econ","physics",NA,NA,NA,0,NA,1,1,0,1,0,1,1,0,0,0,0,29,179,"","",0,0,1,0,0,0,0,0,0,0
+"443","Michigan State University",NA,"university of illinois","m",NA,"econ","math",NA,NA,0,NA,0,0,0,0,0,1,0,1,0,1,0,29,59,"","",0,0,0,0,0,0,0,0,0,0
+"444","Michigan State University",NA,"university of michigan","m",NA,"econ","math",NA,NA,0,NA,0,0,0,0,0,1,0,1,0,1,0,29,30,"","",0,0,0,0,0,0,0,0,0,0
+"445","Michigan State University",NA,"truman state university","f",NA,"econ",NA,"stats",NA,0,NA,0,0,0,0,1,1,0,1,0,1,0,29,NA,"","",0,0,0,0,0,0,0,1,0,0
+"446","Michigan State University","university of texas","auburn university","m",NA,"math",NA,"business",NA,0,NA,0,0,0,1,0,0,0,1,0,0,0,29,NA,"","",0,0,0,0,0,0,0,1,0,0
+"447","Ohio State University","georgia institute of technology","nankai university","m","econ","econ",NA,NA,NA,0,NA,1,0,0,1,0,1,1,0,0,0,0,29,277,"","",0,0,0,1,0,0,0,0,0,0
+"448","Ohio State University","new york university","zhejiang university","f","econ","econ",NA,NA,NA,0,NA,1,0,0,1,1,1,1,0,0,0,0,29,110,"","",0,0,0,1,0,0,0,0,0,0
+"449","Ohio State University","european university institute","novosibirsk state university","m","econ","math",NA,NA,NA,0,NA,1,0,0,1,0,1,1,1,0,1,0,29,317,"","",0,1,0,0,0,0,0,0,0,0
+"450","Ohio State University",NA,"california state university nortbridge","f",NA,"econ",NA,NA,NA,0,NA,0,0,0,0,1,1,0,0,0,0,0,29,NA,"","",0,0,0,0,0,0,0,1,0,0
+"451","Ohio State University",NA,"university of vermont","m",NA,"econ","math",NA,NA,0,NA,0,0,0,0,0,1,0,1,0,1,0,29,575,"","",0,0,0,0,0,0,0,0,0,0
+"452","Ohio State University","seoul national university","seoul national university","f","econ","archaeology",NA,NA,NA,1,NA,1,1,0,1,1,1,1,0,0,0,0,29,36,"","",0,0,0,1,0,0,0,0,0,0
+"453","Ohio State University","peking university","nankai university","m","finance","mice management",NA,NA,NA,0,NA,1,0,0,1,0,0,0,0,0,0,1,29,277,"","",0,0,0,1,0,0,0,0,0,0
+"454","Ohio State University",NA,"university of miami","m",NA,"engineering",NA,NA,NA,1,NA,0,0,0,0,0,0,0,0,0,0,1,29,280,"","",0,0,0,0,0,0,0,0,0,0
+"455","Ohio State University","sharif university of technology","sharif university of technology","m","econ","ee",NA,NA,NA,0,NA,1,0,0,1,0,1,1,0,0,0,0,29,475,"","",0,0,0,0,0,0,0,0,0,1
+"456","Ohio State University","university of hongkong","southwestern university of finance and economics","f","econ","econ",NA,NA,NA,1,NA,1,0,0,1,1,1,1,0,0,0,0,29,NA,"","",0,0,0,1,0,0,0,1,0,0
+"457","University of California-Davis",NA,"university of wisconsin","f","econ","econ","math",NA,NA,1,1,0,0,1,0,1,1,1,1,0,1,0,29,54,"","",0,0,0,0,0,0,0,0,0,0
+"458","University of California-Davis",NA,"ucb","m",NA,"econ","math",NA,NA,0,NA,0,0,0,0,0,1,0,1,0,1,0,29,26,"","",0,0,0,0,0,0,0,0,0,0
+"459","University of California-Davis","london school of economics","simon fraser university","m","econ","econ",NA,NA,NA,0,1,1,0,1,1,0,1,1,0,0,0,0,29,225,"","",0,0,0,0,0,0,0,0,1,0
+"460","University of California-Davis",NA,"binghamton university","m",NA,"econ",NA,NA,NA,1,NA,0,0,0,0,0,1,0,0,0,0,0,29,NA,"","",0,0,0,0,0,0,0,1,0,0
+"461","University of California-Davis","cuny hunter college","cuny hunter college","f","econ","econ","math",NA,NA,1,NA,0,0,0,1,1,1,1,1,0,1,0,29,NA,"","",0,0,0,0,0,1,0,0,0,0
+"462","University of California-Davis","london school of economics","Instituto Tecnológico Autónomo de México","f","econ","econ",NA,NA,NA,1,NA,1,0,0,1,1,1,1,0,0,0,0,29,575,"","",0,0,0,0,1,0,0,0,0,0
+"463","University of California-Davis",NA,"university of virginia","f",NA,NA,NA,NA,NA,0,1,0,0,1,0,1,0,0,0,0,0,1,29,172,"","",0,0,0,0,0,0,0,0,0,0
+"464","University of California-Davis","peking university","peking university","f","econ","econ",NA,"chinese literature",NA,0,NA,1,0,0,1,1,1,1,0,0,0,0,29,41,"","",0,0,0,1,0,0,0,0,0,0
+"465","University of California-Davis","sungkyunkwan university","sungkyunkwan university","m","econ","econ",NA,NA,NA,0,NA,1,0,0,1,0,1,1,0,0,0,0,29,118,"","",0,0,0,1,0,0,0,0,0,0
+"466","University of California-Davis","sao paulo school of economics","puc rio","m","econ","econ",NA,NA,NA,0,1,1,0,1,1,0,1,1,0,0,0,0,29,NA,"","",0,0,0,0,1,0,0,1,0,0
+"467","University of Illinois at Urbana-Champaign","university of sao paulo","university of sao paulo","m","econ","econ",NA,NA,NA,0,NA,1,0,0,1,0,1,1,0,0,0,0,29,143,"","",0,0,0,0,1,0,0,0,0,0
+"468","University of Illinois at Urbana-Champaign","university of sao paulo","university of sao paulo","m","econ","econ",NA,NA,NA,0,1,1,0,1,1,0,1,1,0,0,0,0,29,143,"","",0,0,0,0,1,0,0,0,0,0
+"469","University of Illinois at Urbana-Champaign","universidade federal de pernambuco","universidade federal de pernambuco","m","econ","econ",NA,NA,NA,0,NA,1,0,0,1,0,1,1,0,0,0,0,29,NA,"","",0,0,0,0,1,0,0,1,0,0
+"470","University of Illinois at Urbana-Champaign","indian statistical institute","delhi university","f","econ","econ",NA,NA,NA,1,NA,1,0,0,1,1,1,1,0,0,0,0,29,485,"","",0,0,1,0,0,0,0,0,0,0
+"471","University of Illinois at Urbana-Champaign","university of bonn","university magdeburg","f","econ","econ",NA,NA,NA,0,NA,1,0,0,1,1,1,1,0,0,0,0,29,NA,"","",1,0,0,0,0,0,0,1,0,0
+"472","University of Illinois at Urbana-Champaign","universidad del rosario","universidad eafit","m","econ","econ",NA,NA,NA,0,NA,1,0,0,1,0,1,1,0,0,0,0,29,NA,"","",0,0,0,0,1,0,0,1,0,0
+"473","University of Illinois at Urbana-Champaign","universitat pompeu fabra","pontificia universidad catolica de peru","f","econ","econ",NA,NA,NA,0,NA,1,1,0,1,1,1,1,0,0,0,0,29,495,"","",0,0,0,0,1,0,0,0,0,0
+"474","University of Illinois at Urbana-Champaign",NA,"st mary's college of maryland","f",NA,"econ","math",NA,NA,1,NA,0,0,0,0,1,1,0,1,0,1,0,29,NA,"","",0,0,0,0,0,1,0,0,0,0
+"475","University of Illinois at Urbana-Champaign","sharif university of technology","amirkabir university of technology","m","econ","engineering",NA,NA,NA,0,NA,1,0,0,1,0,1,1,0,0,0,0,29,NA,"","",0,0,0,0,0,0,0,1,0,1
+"476","University of Illinois at Urbana-Champaign","university of chile","university of chile","m","econ","engineering",NA,NA,NA,0,NA,1,0,0,1,0,1,1,0,0,0,0,29,209,"","",0,0,0,0,1,0,0,0,0,0
+"477","University of Illinois at Urbana-Champaign",NA,"peking university","f",NA,"econ",NA,NA,NA,0,1,1,0,1,0,1,1,0,0,0,0,0,29,41,"","",0,0,0,1,0,0,0,0,0,0
+"478","University of Illinois at Urbana-Champaign","university of san andres","university of buenos aires","f","econ","econ",NA,NA,NA,0,1,1,0,1,1,1,1,1,0,0,0,0,29,124,"","",0,0,0,0,1,0,0,0,0,0
+"479","University of Illinois at Urbana-Champaign",NA,"university of cyprus","f",NA,"econ",NA,NA,NA,0,NA,1,0,0,0,1,1,0,0,0,0,0,29,NA,"","",0,0,0,0,0,0,0,1,0,1
+"480","University of Illinois at Urbana-Champaign","university of oxford","university of warwick","m","econ","econ",NA,NA,NA,0,1,1,0,1,1,0,1,1,0,0,0,0,29,48,"","",1,0,0,0,0,0,0,0,0,0
+"481","University of North Carolina",NA,"university of north alabama","m",NA,"econ",NA,NA,NA,0,NA,0,1,0,0,0,1,0,0,0,0,0,29,NA,"","",0,0,0,0,0,0,0,1,0,0
+"482","University of North Carolina","johns hopkins university","university of dhaka","m","econ","econ",NA,NA,NA,0,NA,1,0,0,1,0,1,1,0,0,0,0,29,NA,"","",0,0,1,0,0,0,0,1,0,0
+"483","University of North Carolina","sogang university","sogang university","m","econ","econ",NA,NA,NA,1,1,1,0,1,1,0,1,1,0,0,0,0,29,425,"","",0,0,0,1,0,0,0,0,0,0
+"484","University of North Carolina","peking university","soochow university","m","econ","econ",NA,NA,NA,0,NA,1,0,0,1,0,1,1,0,0,0,0,29,NA,"","",0,0,0,1,0,0,0,1,0,0
+"485","University of North Carolina",NA,"indiana university","m",NA,"econ","math",NA,NA,1,NA,0,0,0,0,0,1,0,1,0,1,0,29,263,"","",0,0,0,0,0,0,0,0,0,0
+"486","University of North Carolina",NA,"bowdoin college","m",NA,"econ","math",NA,NA,0,NA,0,0,0,0,0,1,0,1,0,1,0,29,NA,"","",0,0,0,0,0,1,0,0,0,0
+"487","University of North Carolina",NA,"southern methodist university","m",NA,"econ",NA,NA,NA,0,NA,0,0,0,0,0,1,0,0,0,0,0,29,NA,"","",0,0,0,0,0,0,0,1,0,0
+"488","University of North Carolina",NA,"university of st thomas","m",NA,NA,NA,NA,NA,0,1,0,0,1,0,0,0,0,0,0,0,1,29,NA,"","",0,0,0,0,0,0,0,1,0,0
+"489","University of Virginia","korea university","korea university","f","econ","econ",NA,NA,NA,0,1,1,0,1,1,1,1,1,0,0,0,0,29,104,"","",0,0,0,1,0,0,0,0,0,0
+"490","University of Virginia",NA,"american university of beirut","f",NA,"econ",NA,NA,NA,0,NA,1,1,0,0,1,1,0,0,0,0,0,29,268,"","",0,0,0,0,0,0,0,0,0,1
+"491","University of Virginia","barcelona graduate school of economics","pontificia universidad catolica de peru","m","econ","econ",NA,NA,NA,0,1,1,0,1,1,0,1,1,0,0,0,0,29,495,"","",0,0,0,0,1,0,0,0,0,0
+"492","University of Virginia",NA,"arizona state university","m",NA,"econ","math",NA,NA,0,NA,0,0,0,0,0,1,0,1,0,1,0,29,249,"","",0,0,0,0,0,0,0,0,0,0
+"493","University of Virginia","seoul national university","handong global university","m","econ","engineering",NA,NA,NA,0,NA,1,0,0,1,0,1,1,0,0,0,0,29,NA,"","",0,0,0,1,0,0,0,1,0,0
+"494","University of Virginia","university of dhaka","university of dhaka","m","econ","econ",NA,NA,NA,0,1,1,1,1,1,0,1,1,0,0,0,0,29,NA,"","",0,0,1,0,0,0,0,1,0,0
+"495","University of Virginia",NA,"university of wyoming","m",NA,"econ","math",NA,NA,0,NA,0,0,0,0,0,1,0,1,0,1,0,29,675,"","",0,0,0,0,0,0,0,0,0,0
+"496","University of Virginia",NA,"university of miami","m",NA,"econ","math",NA,NA,0,NA,0,0,0,0,0,1,0,1,0,1,0,29,280,"","",0,0,0,0,0,0,0,0,0,0
+"497","University of Washington","chinese university of hongkong","hongkong university of science and technology","m","econ","econ",NA,NA,NA,1,NA,1,0,0,1,0,1,1,0,0,0,0,35,28,"","",0,0,0,1,0,0,0,0,0,0
+"498","University of Washington",NA,"university of minnesota","f",NA,"econ","math",NA,NA,0,NA,0,0,0,0,1,1,0,1,0,1,0,35,123,"","",0,0,0,0,0,0,0,0,0,0
+"499","University of Washington","university of dhaka","university of dhaka","m","econ","english",NA,NA,NA,0,1,1,1,1,1,0,1,1,0,0,0,0,35,NA,"","",0,0,1,0,0,0,0,1,0,0
+"500","University of Washington","university of michigan","fudan","m","econ","econ",NA,NA,NA,0,NA,1,0,0,1,0,1,1,0,0,0,0,35,51,"","",0,0,0,1,0,0,0,0,0,0
+"501","University of Washington",NA,"yonsei university","m",NA,"econ",NA,NA,NA,1,NA,1,1,0,0,0,1,0,0,0,0,0,35,105,"","",0,0,0,1,0,0,0,0,0,0
+"502","University of Washington","sharif university of technology","ferdowsi university of mashhad","f","econ","engineering",NA,NA,NA,0,NA,1,0,0,1,1,1,1,0,0,0,0,35,NA,"","",0,0,0,0,0,0,0,1,0,1
+"503","University of Washington","university of costa rica","yale","m","econ","math",NA,NA,NA,0,NA,0,0,0,1,0,1,1,1,0,1,0,35,15,"","",0,0,0,0,0,0,0,0,0,0
+"504","University of Washington","peking university","peking university","m","econ","econ","math",NA,NA,0,NA,1,0,0,1,0,1,1,1,0,1,0,35,41,"","",0,0,0,1,0,0,0,0,0,0
+"505","University of Washington","university of korea","university of korea","m","econ","econ",NA,NA,NA,0,NA,1,0,0,1,0,1,1,0,0,0,0,35,104,"","",0,0,0,1,0,0,0,0,0,0
+"506","Vanderbilt University",NA,"providence college","f",NA,"econ","math",NA,NA,0,NA,0,0,0,0,1,1,0,1,0,1,0,35,NA,"","",0,0,0,0,0,0,0,1,0,0
+"507","Vanderbilt University",NA,"colorado college","m",NA,"econ","math",NA,NA,0,NA,0,0,0,0,0,1,0,1,0,1,0,35,NA,"","",0,0,0,0,0,0,0,1,0,0
+"508","Vanderbilt University",NA,"capital university","m",NA,"econ","math",NA,NA,0,NA,0,0,0,0,0,1,0,1,0,1,0,35,NA,"","",0,0,0,0,0,0,0,1,0,0
+"509","Vanderbilt University",NA,"new york university","m",NA,"econ","math",NA,NA,0,NA,0,0,0,0,0,1,0,1,0,1,0,35,53,"","",0,0,0,0,0,0,0,0,0,0
+"510","Vanderbilt University",NA,"michigan state university","m",NA,"econ","math",NA,NA,0,NA,0,0,0,0,0,1,0,1,0,1,0,35,164,"","",0,0,0,0,0,0,0,0,0,0
+"511","Vanderbilt University",NA,"university of alabama","m",NA,"math","econ",NA,NA,0,NA,0,0,0,0,0,1,0,1,0,1,0,35,625,"","",0,0,0,0,0,0,0,0,0,0
+"512","Vanderbilt University",NA,"george washington university","m",NA,"math","econ",NA,NA,1,NA,0,0,0,0,0,1,0,1,0,1,0,35,327,"","",0,0,0,0,0,0,0,0,0,0
+"513","Vanderbilt University",NA,"colgate university","m",NA,"econ",NA,NA,NA,1,NA,0,0,0,0,0,1,0,0,0,0,0,35,NA,"","",0,0,0,0,0,1,0,0,0,0
+"514","Vanderbilt University",NA,"university of new orleans","m",NA,"finance",NA,NA,NA,0,NA,0,0,0,0,0,1,0,0,0,0,0,35,NA,"","",0,0,0,0,0,0,0,1,0,0
+"515","University of California, Santa Barbara",NA,"college of william and mary","m",NA,"econ","math",NA,NA,1,NA,0,0,0,0,0,1,0,1,0,1,0,37,NA,"","",0,0,0,0,0,1,0,0,0,0
+"516","University of California, Santa Barbara",NA,"university of oregon","m",NA,"econ","spanish","math",NA,0,NA,0,0,0,0,0,1,0,1,0,1,0,37,525,"","",0,0,0,0,0,0,0,0,0,0
+"517","University of California, Santa Barbara","national university of colombia","national university of colombia","m","econ","econ",NA,NA,NA,0,1,1,0,1,1,0,1,1,0,0,0,0,37,NA,"","",0,0,0,0,0,0,0,1,0,1
+"518","University of California, Santa Barbara","american university of beirut","american university of beirut","m","econ","econ",NA,NA,NA,1,NA,1,0,0,1,0,1,1,0,0,0,0,37,268,"","",0,0,0,0,0,0,0,0,0,1
+"519","University of California, Santa Barbara","university of british columbia","university of innsbruck","f","econ","econ",NA,NA,NA,0,1,1,0,1,1,1,1,1,0,0,0,0,37,295,"","",1,0,0,0,0,0,0,0,0,0
+"520","University of California, Santa Barbara","university of wisconsin","peking university","f","econ","econ",NA,NA,NA,0,NA,1,0,0,1,1,1,1,0,0,0,0,37,41,"","",0,0,0,1,0,0,0,0,0,0
+"521","University of California, Santa Barbara",NA,"tsinghua university","f",NA,"econ",NA,NA,NA,0,NA,1,0,0,0,1,1,0,0,0,0,0,37,25,"","",0,0,0,1,0,0,0,0,0,0
+"522","University of Southern California","university of wisconsin","university of chicago","m","econ","econ","bio",NA,NA,0,NA,0,0,0,1,0,1,1,0,0,0,0,37,10,"","",0,0,0,0,0,0,0,0,0,0
+"523","University of Southern California","pennsylvania state university","new economics school","m","econ","econ","math",NA,NA,0,NA,1,0,0,1,0,1,1,1,0,1,0,37,NA,"","",0,1,0,0,0,0,1,0,0,0
+"524","University of Southern California",NA,"tsinghua university","m",NA,"econ","math",NA,NA,1,NA,1,0,0,0,0,1,0,1,0,1,0,37,25,"","",0,0,0,1,0,0,0,0,0,0
+"525","University of Southern California","university of wisconsin","southwestern university of finance and economics","m","econ","econ",NA,NA,NA,0,NA,1,0,0,1,0,1,1,0,0,0,0,37,NA,"","",0,0,0,1,0,0,0,1,0,0
+"526","Indiana University","usc","fudan","f","econ","finance",NA,NA,NA,0,NA,1,0,0,1,1,1,1,0,0,0,0,39,51,"","",0,0,0,1,0,0,0,0,0,0
+"527","Indiana University","university of michigan","dongbei university of finance and economics","f","econ","econ",NA,NA,NA,0,NA,1,0,0,1,1,1,1,0,0,0,0,39,NA,"","",0,0,0,1,0,0,0,1,0,0
+"528","Indiana University",NA,"beloit college","m",NA,"econ","math",NA,NA,0,1,0,0,1,0,0,1,0,1,0,1,0,39,NA,"","",0,0,0,0,0,1,0,0,0,0
+"529","Indiana University","sungkyunkwan university","sungkyunkwan university","m","econ","econ",NA,NA,NA,0,NA,1,0,0,1,0,1,1,0,0,0,0,39,118,"","",0,0,0,1,0,0,0,0,0,0
+"530","Indiana University","yonsei university","yonsei university","m","econ","econ",NA,NA,NA,0,NA,1,0,0,1,0,1,1,0,0,0,0,39,105,"","",0,0,0,1,0,0,0,0,0,0
+"531","Indiana University","yeshiva university","peking university","f","econ","econ",NA,NA,NA,0,NA,1,0,0,1,1,1,1,0,0,0,0,39,41,"","",0,0,0,1,0,0,0,0,0,0
+"532","Indiana University",NA,"university of wisconsin","m",NA,"econ","math",NA,NA,1,NA,0,0,0,0,0,1,0,1,0,1,0,39,54,"","",0,0,0,0,0,0,0,0,0,0
+"533","Texas AM University",NA,"renmin university of china","f",NA,"finance",NA,NA,NA,0,NA,1,0,0,0,1,1,0,0,0,0,0,39,445,"","",0,0,0,1,0,0,0,0,0,0
+"534","Texas AM University",NA,"rhodes college","f",NA,"econ",NA,NA,NA,1,NA,0,0,0,0,1,1,0,0,0,0,0,39,NA,"","",0,0,0,0,0,1,0,0,0,0
+"535","Texas AM University",NA,"Instituto Tecnológico Autónomo de México","f",NA,"econ",NA,NA,NA,1,1,1,0,1,0,1,1,0,0,0,0,0,39,575,"","",0,0,0,0,1,0,0,0,0,0
+"536","Texas AM University","fudan","university of science and technology of china","m",NA,"physics",NA,NA,NA,0,NA,0,0,0,1,0,0,0,0,0,0,1,39,113,"","",0,0,0,1,0,0,0,0,0,0
+"537","Texas AM University","sungkyunkwan university","sungkyunkwan university","m","econ","econ","math",NA,NA,0,1,1,0,1,1,0,1,1,1,0,1,0,39,118,"","",0,0,0,1,0,0,0,0,0,0
+"538","Texas AM University","university of north texas","allameh tabatabai","f","econ","econ",NA,NA,NA,0,NA,1,0,0,1,1,1,1,0,0,0,0,39,NA,"","",0,0,0,0,0,0,0,1,0,1
+"539","Texas AM University","purdue university","university of central flordia","m","econ","math",NA,NA,NA,0,NA,0,0,0,1,0,1,1,1,0,1,0,39,NA,"","",0,0,0,0,0,0,0,1,0,0
+"540","Texas AM University",NA,"rensselaer polytechnic institute","m",NA,"math",NA,NA,NA,0,NA,0,1,0,0,0,0,0,1,0,0,0,39,348,"","",0,0,0,0,0,0,0,0,0,0
+"541","Texas AM University",NA,"brigham young university","m",NA,"econ",NA,NA,NA,0,NA,0,0,0,0,0,1,0,0,0,0,0,39,675,"","",0,0,0,0,0,0,0,0,0,0
+"542","University of Pittsburgh",NA,"grinnell college","m",NA,"econ","psy",NA,NA,1,1,0,1,1,0,0,1,0,0,0,0,0,39,NA,"","",0,0,0,0,0,1,0,0,0,0
+"543","University of Pittsburgh",NA,"university of pittsburgh","m",NA,"econ","bio",NA,NA,0,NA,0,0,0,0,0,1,0,0,0,0,0,39,133,"","",0,0,0,0,0,0,0,0,0,0
+"544","University of Pittsburgh","miami university","university of central arkansas","m","econ","econ",NA,NA,NA,0,NA,0,0,0,1,0,1,1,0,0,0,0,39,NA,"","",0,0,0,0,0,0,0,1,0,0
+"545","University of Arizona",NA,"southwestern university of finance and economics","f",NA,"econ","math",NA,NA,0,NA,1,0,0,0,1,1,0,1,0,1,0,42,NA,"","",0,0,0,1,0,0,0,1,0,0
+"546","University of Arizona","duke university","southwestern university of finance and economics","m","econ","econ","math",NA,NA,0,NA,1,0,0,1,0,1,1,1,0,1,0,42,NA,"","",0,0,0,1,0,0,0,1,0,0
+"547","University of Arizona","university of alabama","university of alabama","f","econ","econ","math",NA,NA,0,NA,0,0,0,1,1,1,1,1,0,1,0,42,625,"","",0,0,0,0,0,0,0,0,0,0
+"548","University of Arizona",NA,"central south university","f",NA,"finance",NA,NA,NA,0,NA,0,0,0,0,1,1,0,0,0,0,0,42,NA,"","",0,0,0,0,0,0,0,1,0,0
+"549","University of Arizona","university of queensland","washington university in st.louis","f","econ","econ","environmental studies",NA,NA,0,1,0,1,1,1,1,1,1,0,0,0,0,42,110,"","",0,0,0,0,0,0,0,0,0,0
+"550","University of Arizona",NA,"case western reserve university","m",NA,"econ","math","stats","minors",0,NA,0,0,0,0,0,1,0,1,0,1,0,42,NA,"","",0,0,0,0,0,0,0,1,0,0
+"551","University of Arizona",NA,"george washington university","m",NA,"econ",NA,"stats",NA,0,NA,0,1,0,0,0,1,0,1,0,1,0,42,327,"","",0,0,0,0,0,0,0,0,0,0
+"552","University of Arizona","hongkong university of science and technology","shanghai jiaotong university","f","econ","public administration",NA,"econ",NA,0,NA,1,0,0,1,1,1,1,0,0,0,0,42,70,"","",0,0,0,1,0,0,0,0,0,0
+"553","Arizona State University","university of texas","university of miami","m","econ","econ",NA,"math",NA,0,NA,0,0,0,1,0,1,1,1,0,1,0,42,280,"","",0,0,0,0,0,0,0,0,0,0
+"554","Arizona State University","universidad torcuato di tella","universidad torcuato di tella","m","econ","econ",NA,NA,NA,0,NA,1,1,0,1,0,1,1,0,0,0,0,42,625,"","",0,0,0,0,1,0,0,0,0,0
+"555","Arizona State University","universidad de la republica","universidad ort uruguay","m","econ","econ",NA,NA,NA,0,NA,1,1,0,1,0,1,1,0,0,0,0,42,NA,"","",0,0,0,0,1,0,0,1,0,0
+"556","Arizona State University","pontificia universidad catolica de chile","pontificia universidad catolica de chile","m","econ","econ",NA,NA,NA,0,NA,1,0,0,1,0,1,1,0,0,0,0,42,170,"","",0,0,0,0,1,0,0,0,0,0
+"557","Arizona State University",NA,"university of minnesota","m",NA,"econ","math",NA,NA,0,NA,0,0,0,0,0,1,0,1,0,1,0,42,123,"","",0,0,0,0,0,0,0,0,0,0
+"558","Arizona State University",NA,"sungkyunkwan university","f",NA,"econ","math",NA,NA,0,1,1,0,1,0,1,1,0,1,0,1,0,42,118,"","",0,0,0,1,0,0,0,0,0,0
+"559","Purdue",NA,"purdue","m",NA,"econ",NA,NA,NA,0,NA,0,0,0,0,0,1,0,0,0,0,0,42,89,"","",0,0,0,0,0,0,0,0,0,0
+"560","Purdue",NA,"vanderbilt university","m",NA,"econ",NA,"math",NA,1,NA,0,0,0,0,0,1,0,1,0,1,0,42,216,"","",0,0,0,0,0,0,0,0,0,0
+"561","Purdue","indian statistical institute","presidency college (india)","f","econ","econ",NA,NA,NA,0,NA,1,0,0,1,1,1,1,0,0,0,0,42,NA,"","",0,0,1,0,0,0,0,1,0,0
+"562","Purdue","jadavpur university","university of calcutta","f","econ","econ",NA,NA,NA,1,NA,1,0,0,1,1,1,1,0,0,0,0,42,625,"","",0,0,1,0,0,0,0,0,0,0
+"563","Purdue","central university of finance and economics","central university of finance and economics","f","econ","econ",NA,NA,NA,0,NA,1,0,0,1,1,1,1,0,0,0,0,42,NA,"","",0,0,0,1,0,0,0,1,0,0
+"564","Purdue","university of science and technology of china","university of science and technology of china","m","stats","finance",NA,NA,NA,0,NA,1,0,0,1,0,1,0,1,1,1,0,42,113,"","",0,0,0,1,0,0,0,0,0,0
+"565","Rice University","university of texas","renmin university of china","m","econ","finance",NA,NA,NA,0,NA,1,0,0,1,0,1,1,0,0,0,0,42,445,"","",0,0,0,1,0,0,0,0,0,0
+"566","Rice University","university of mannheim","university of mannheim","m","econ","econ","math",NA,NA,0,NA,1,1,0,1,0,1,1,1,0,1,0,42,394,"","",1,0,0,0,0,0,0,0,0,0
+"567","Rice University","university of western australia","australian national university","f","econ","econ",NA,NA,NA,1,NA,1,1,0,1,1,1,1,0,0,0,0,42,19,"","",0,0,0,0,0,0,0,0,1,0
+"568","Rice University","delhi school of economics","university of calcutta","m","econ","econ",NA,NA,NA,0,1,1,0,1,1,0,1,1,0,0,0,0,42,625,"","",0,0,1,0,0,0,0,0,0,0
+"569","Rice University","new economics school","moscow state technical university","m","econ","econ",NA,NA,NA,0,NA,1,0,0,1,0,1,1,0,0,0,0,42,338,"","",0,1,0,0,0,0,0,0,0,0
+"570","Rice University","university of bologna","university of cagliari","m","econ","econ",NA,NA,NA,0,1,1,0,1,1,0,1,1,0,0,0,0,42,NA,"","",1,0,0,0,0,0,0,1,0,0
+"571","Rice University","duke university","universidad catolica andres bello","m","econ","econ",NA,NA,NA,1,NA,1,1,0,1,0,1,1,0,0,0,0,42,NA,"","",0,0,0,0,1,0,0,1,0,0
+"572","Rice University","university of wisconsin","pes university","m","econ","electronics",NA,NA,NA,1,NA,1,1,0,1,0,1,1,0,0,0,0,42,NA,"","",0,0,1,0,0,0,0,1,0,0
+"573","University of Iowa",NA,"brigham young university","m",NA,"econ","math",NA,NA,0,NA,0,0,0,0,0,1,0,1,0,1,0,42,675,"","",0,0,0,0,0,0,0,0,0,0
+"574","University of Iowa","tehran university","zanjian university","f","engineering","math",NA,NA,NA,0,NA,1,0,0,1,1,0,0,1,0,0,0,42,NA,"","",0,0,0,0,0,0,0,1,0,1
+"575","University of Iowa","university of nebraska omaha","yazd university","m","math","econ",NA,NA,NA,0,NA,1,0,0,1,0,1,0,1,1,1,0,42,NA,"","",0,0,0,0,0,0,0,1,0,1
+"576","University of Iowa",NA,"california state university","m",NA,"econ",NA,NA,NA,0,NA,0,0,0,0,0,1,0,0,0,0,0,42,NA,"","",0,0,0,0,0,0,0,1,0,0
+"577","University of Iowa","state university of new york","north south university","f","econ","econ","finance",NA,NA,0,NA,1,0,0,1,1,1,1,0,0,0,0,42,NA,"","",0,0,1,0,0,0,0,1,0,0
+"578","Rutgers","universidad nacional de colombia","universidad nacional de colombia","f","econ","econ",NA,NA,NA,0,1,1,1,1,1,1,1,1,0,0,0,0,47,290,"","",0,0,0,0,1,0,0,0,0,0
+"579","Rutgers","ecole normale superieure","ecole normale superieure","f","econ","econ",NA,NA,NA,0,NA,1,0,0,1,1,1,1,0,0,0,0,47,188,"","",1,0,0,0,0,0,0,0,0,0
+"580","Rutgers",NA,"ohio state university","m",NA,"econ",NA,NA,NA,1,1,0,0,1,0,0,1,0,0,0,0,0,47,99,"","",0,0,0,0,0,0,0,0,0,0
+"581","Rutgers","sogang university","sogang university","m","econ","econ",NA,NA,NA,0,NA,1,0,0,1,0,1,1,0,0,0,0,47,425,"","",0,0,0,1,0,0,0,0,0,0
+"582","Rutgers","vanderbilt university","china university of political science and law","m","econ","econ",NA,NA,NA,0,NA,1,0,0,1,0,1,1,0,0,0,0,47,NA,"","",0,0,0,1,0,0,0,1,0,0
+"583","Rutgers","university of texas","shandong university","f","econ","econ","math",NA,NA,0,NA,1,0,0,1,1,1,1,1,0,1,0,47,575,"","",0,0,0,1,0,0,0,0,0,0
+"584","Rutgers","johns hopkins university","university of the pacific","m","econ","business administration",NA,NA,NA,0,1,0,0,1,1,0,1,1,0,0,0,0,47,NA,"","",0,0,0,0,0,0,0,1,0,0
+"585","Rutgers","universidad de los andes","universidad de los andes","m","econ","econ",NA,NA,NA,0,NA,1,1,0,1,0,1,1,0,0,0,0,47,283,"","",0,0,0,0,1,0,0,0,0,0
+"586","University of California, Irvine","el colegio de la frontera norte","autonomous university of baja california","m","econ","econ",NA,NA,NA,1,NA,1,0,0,1,0,1,1,0,0,0,0,47,NA,"","",0,0,0,0,1,0,0,1,0,0
+"587","University of California, Irvine","university of cincinnati","tongji university","f","econ","engineering",NA,"econ",NA,0,NA,1,0,0,1,1,1,1,0,0,0,0,47,345,"","",0,0,0,1,0,0,0,0,0,0
+"588","University of California, Irvine",NA,"lahore university of management sciences","m",NA,"econ",NA,NA,NA,0,1,1,0,1,0,0,1,0,0,0,0,0,47,NA,"","",0,0,1,0,0,0,0,1,0,0
+"589","University of California, Irvine","university of delhi","university of delhi","f","econ","econ",NA,NA,NA,1,NA,1,0,0,1,1,1,1,0,0,0,0,47,485,"","",0,0,1,0,0,0,0,0,0,0
+"590","University of California, Irvine",NA,"ucb","m",NA,"econ",NA,NA,NA,1,NA,0,0,0,0,0,1,0,0,0,0,0,47,26,"","",0,0,0,0,0,0,0,0,0,0
+"591","University of California, Irvine",NA,"pacific lutheran university","f",NA,"econ","math",NA,NA,0,NA,0,0,0,0,1,1,0,1,0,1,0,47,NA,"","",0,0,0,0,0,0,0,1,0,0
+"592","University of California, Irvine","san diego state university","george mason university","m","econ","law",NA,NA,NA,0,NA,0,0,0,1,0,1,1,0,0,0,0,47,675,"","",0,0,0,0,0,0,0,0,0,0
+"593","University of California, Irvine",NA,"ucsd","m",NA,"econ","math",NA,NA,1,NA,0,0,0,0,0,1,0,1,0,1,0,47,44,"","",0,0,0,0,0,0,0,0,0,0
+"594","University of California, Irvine","korea university","korea university","f","econ","econ",NA,NA,NA,0,NA,1,0,0,1,1,1,1,0,0,0,0,47,104,"","",0,0,0,1,0,0,0,0,0,0
+"595","University of California, Irvine","university of delhi","university of delhi","m","econ","econ",NA,NA,NA,0,NA,1,0,0,1,0,1,1,0,0,0,0,47,485,"","",0,0,1,0,0,0,0,0,0,0
+"596","University of California, Irvine","university of arizona","lahore university of management sciences","f","econ","econ",NA,NA,NA,1,NA,1,1,0,1,1,1,1,0,0,0,0,47,NA,"","",0,0,1,0,0,0,0,1,0,0
+"597","University of California, Irvine","toulouse school of economics","autonomous university of baja california","f","econ","econ",NA,NA,NA,1,NA,1,1,0,1,1,1,1,0,0,0,0,47,NA,"","",0,0,0,0,1,0,0,1,0,0
+"598","University of California, Irvine",NA,"indiana university","m",NA,"econ","math",NA,NA,0,NA,0,0,0,0,0,1,0,1,0,1,0,47,263,"","",0,0,0,0,0,0,0,0,0,0
+"599","University of California, Irvine","london school of economics","universidad autonoma de nuevo leon","m","econ","econ",NA,NA,NA,0,NA,1,1,0,1,0,1,1,0,0,0,0,47,NA,"","",0,0,0,0,1,0,0,1,0,0
+"600","University of California, Irvine","california state university","university of tehran","m","econ","econ",NA,NA,NA,0,NA,1,0,0,1,0,1,1,0,0,0,0,47,575,"","",0,0,0,0,0,0,0,0,0,1
+"601","University of Notre Dame","universities of basel and bern","universitat munchen","f","econ","econ",NA,NA,NA,0,NA,1,1,0,1,1,1,1,0,0,0,0,47,75,"","",1,0,0,0,0,0,0,0,0,0
+"602","University of Notre Dame",NA,"mount st.mary's university","m",NA,"econ",NA,"math",NA,1,NA,0,0,0,0,0,1,0,1,0,1,0,47,NA,"","",0,0,0,0,0,0,0,1,0,0
+"603","University of Notre Dame",NA,"university of maryland","m",NA,"econ","math",NA,NA,0,NA,0,1,0,0,0,1,0,1,0,1,0,47,126,"","",0,0,0,0,0,0,0,0,0,0
